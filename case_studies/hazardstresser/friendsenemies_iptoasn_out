@@ -1,0 +1,82 @@
+Bulk mode; xp05-as26.svcs.ord08.cymru.com [2017-01-09 13:07:35 +0000]
+19108   | 74.197.70.58     | 74.197.0.0/17       | US | arin     | 2006-09-27 | 2013-03-27 00:19:24.500000 | SUDDENLINK-COMMUNICATIONS - Suddenlink Communications, US
+10796   | 24.29.209.124    | 24.29.192.0/18      | US | arin     | 2000-06-09 | 2013-03-27 00:19:24.500000 | SCRR-10796 - Time Warner Cable Internet LLC, US
+133612  | 101.119.16.166   | 101.112.0.0/13      | AU | apnic    | 2010-12-14 | 2013-03-27 00:19:24.500000 | VODAFONE-AS-AP Vodafone Australia Pty Ltd, AU
+32934   | 69.171.237.11    | 69.171.224.0/20     | US | arin     | 2010-08-05 | 2013-03-27 00:19:24.500000 | FACEBOOK - Facebook, Inc., US
+33363   | 173.168.120.50   | 173.168.0.0/14      | US | arin     | 2009-04-14 | 2013-03-27 00:19:24.500000 | BHN-TAMPA - BRIGHT HOUSE NETWORKS, LLC, US
+7922    | 76.122.153.50    | 76.96.0.0/11        | US | arin     | 2007-01-02 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 68.47.220.26     | 68.32.0.0/11        | US | arin     | 2001-11-29 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+49330   | 94.236.162.145   | 94.236.162.0/24     | BG | ripencc  | 2008-10-21 | 2013-03-27 00:19:24.500000 | NIKO-AS , BG
+5650    | 108.13.167.70    | 108.13.0.0/16       | US | arin     | 2009-06-05 | 2013-03-27 00:19:24.500000 | FRONTIER-FRTR - Frontier Communications of America, Inc., US
+7922    | 75.65.207.197    | 75.64.0.0/13        | US | arin     | 2006-07-07 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 68.57.20.191     | 68.32.0.0/11        | US | arin     | 2001-11-29 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+10796   | 24.93.200.21     | 24.93.192.0/18      | US | arin     |            | 2013-03-27 00:19:24.500000 | SCRR-10796 - Time Warner Cable Internet LLC, US
+7922    | 98.251.247.100   | 98.192.0.0/10       | US | arin     | 2007-04-20 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+6128    | 68.199.63.216    | 68.192.0.0/13       | US | arin     | 2003-01-29 | 2013-03-27 00:19:24.500000 | CABLE-NET-1 - Cablevision Systems Corp., US
+7018    | 75.37.18.95      | 75.32.0.0/12        | US | arin     | 2006-02-28 | 2013-03-27 00:19:24.500000 | ATT-INTERNET4 - AT&T Services, Inc., US
+20115   | 68.185.82.192    | 68.185.80.0/20      | US | arin     | 2002-12-31 | 2013-03-27 00:19:24.500000 | CHARTER-NET-HKY-NC - Charter Communications, US
+4739    | 124.150.73.21    | 124.150.64.0/19     | AU | apnic    | 2006-03-02 | 2013-03-27 00:19:24.500000 | INTERNODE-AS Internode Pty Ltd, AU
+11290   | 24.50.125.102    | 24.50.64.0/18       | CA | arin     | 2010-05-04 | 2013-03-27 00:19:24.500000 | RAPIDUS - Cogeco Cable Holdings Inc, CA
+4739    | 124.150.85.104   | 124.150.64.0/19     | AU | apnic    | 2006-03-02 | 2013-03-27 00:19:24.500000 | INTERNODE-AS Internode Pty Ltd, AU
+11290   | 24.122.21.40     | 24.122.16.0/20      | CA | arin     | 2001-04-18 | 2013-03-27 00:19:24.500000 | RAPIDUS - Cogeco Cable Holdings Inc, CA
+5769    | 184.161.38.33    | 184.161.0.0/18      | CA | arin     | 2010-06-21 | 2013-03-27 00:19:24.500000 | VIDEOTRON - Videotron Telecom Ltee, CA
+15321   | 72.0.241.200     | 72.0.240.0/20       | CA | arin     | 2007-10-01 | 2013-03-27 00:19:24.500000 | GROUPE-MASKATEL-LP - Groupe Maskatel, CA
+7922    | 75.65.189.138    | 75.64.0.0/13        | US | arin     | 2006-07-07 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 75.65.188.249    | 75.64.0.0/13        | US | arin     | 2006-07-07 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 76.18.207.122    | 76.16.0.0/12        | US | arin     | 2006-06-28 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7018    | 99.123.224.21    | 99.96.0.0/11        | US | arin     | 2008-02-25 | 2013-03-27 00:19:24.500000 | ATT-INTERNET4 - AT&T Services, Inc., US
+7922    | 24.13.250.5      | 24.0.0.0/12         | US | arin     | 2003-10-06 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 98.215.168.74    | 98.192.0.0/10       | US | arin     | 2007-04-20 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 71.201.1.215     | 71.192.0.0/12       | US | arin     | 2005-07-27 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 67.167.117.228   | 67.160.0.0/11       | US | arin     | 2002-12-16 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 75.65.189.249    | 75.64.0.0/13        | US | arin     | 2006-07-07 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+12322   | 88.190.225.204   | 88.190.0.0/15       | FR | ripencc  | 2005-10-03 | 2013-03-27 00:19:24.500000 | PROXAD , FR
+7922    | 76.122.100.102   | 76.96.0.0/11        | US | arin     | 2007-01-02 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 67.174.149.130   | 67.160.0.0/11       | US | arin     | 2002-12-16 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7018    | 108.206.74.179   | 108.192.0.0/10      | US | arin     | 2011-01-12 | 2013-03-27 00:19:24.500000 | ATT-INTERNET4 - AT&T Services, Inc., US
+9121    | 78.188.82.179    | 78.188.82.0/23      | TR | ripencc  | 2007-05-01 | 2013-03-27 00:19:24.500000 | TTNET , TR
+5607    | 2.219.235.223    | 2.216.0.0/13        | GB | ripencc  | 2010-12-03 | 2013-03-27 00:19:24.500000 | BSKYB-BROADBAND-AS , GB
+8075    | 168.63.55.14     | 168.62.0.0/15       | US | arin     | 2011-06-22 | 2013-03-27 00:19:24.500000 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+1221    | 58.165.94.127    | 58.160.0.0/12       | AU | apnic    | 2005-05-30 | 2013-03-27 00:19:24.500000 | ASN-TELSTRA Telstra Pty Ltd, AU
+8228    | 88.137.197.50    | 88.136.0.0/14       | FR | ripencc  | 2005-09-16 | 2013-03-27 00:19:24.500000 | CEGETEL-AS , FR
+3215    | 86.221.145.159   | 86.221.128.0/17     | FR | ripencc  | 2005-03-02 | 2013-03-27 00:19:24.500000 | AS3215 , FR
+6830    | 77.0.9.31        | 77.0.0.0/15         | DE | ripencc  | 2006-11-21 | 2013-03-27 00:19:24.500000 | LGI-UPC formerly known as UPC Broadband Holding B.V., AT
+8151    | 189.159.123.223  | 189.159.112.0/20    | MX | lacnic   | 2006-05-12 | 2013-03-27 00:19:24.500000 | Uninet S.A. de C.V., MX
+20115   | 75.135.205.205   | 75.135.192.0/18     | US | arin     | 2006-07-17 | 2013-03-27 00:19:24.500000 | CHARTER-NET-HKY-NC - Charter Communications, US
+34555   | 178.248.33.68    | 178.248.32.0/21     | GB | ripencc  | 2010-04-29 | 2013-03-27 00:19:24.500000 | CCS-LEEDS-ASN Unit A, Seacroft Trade Park, GB
+209     | 75.162.22.44     | 75.160.0.0/12       | US | arin     | 2006-10-24 | 2013-03-27 00:19:24.500000 | CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company, LLC, US
+5089    | 86.16.81.95      | 86.16.0.0/14        | GB | ripencc  | 2005-03-29 | 2013-03-27 00:19:24.500000 | NTL , GB
+7922    | 67.184.37.164    | 67.160.0.0/11       | US | arin     | 2002-12-16 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 24.13.151.170    | 24.0.0.0/12         | US | arin     | 2003-10-06 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+15093   | 24.72.165.78     | 24.72.164.0/23      | US | arin     | 2005-03-02 | 2013-03-27 00:19:24.500000 | NEWWAVECOMM2 - New Wave Communications, US
+5089    | 212.250.25.115   | 212.250.0.0/17      | GB | ripencc  |            | 2013-03-27 00:19:24.500000 | NTL , GB
+33363   | 68.204.162.64    | 68.204.0.0/15       | US | arin     | 2003-01-31 | 2013-03-27 00:19:24.500000 | BHN-TAMPA - BRIGHT HOUSE NETWORKS, LLC, US
+1299    | 209.170.122.56   | 209.170.64.0/18     | US | arin     |            | 2013-03-27 00:19:24.500000 | TELIANET , SE
+16276   | 46.105.123.64    | 46.105.0.0/16       | FR | ripencc  | 2010-11-29 | 2013-03-27 00:19:24.500000 | OVH , FR
+6128    | 68.194.182.93    | 68.192.0.0/13       | US | arin     | 2003-01-29 | 2013-03-27 00:19:24.500000 | CABLE-NET-1 - Cablevision Systems Corp., US
+22709   | 66.110.243.5     | 66.110.240.0/20     | US | arin     | 2004-01-26 | 2013-03-27 00:19:24.500000 | NSTELCO - North State Telephone Co., US
+803     | 71.17.67.160     | 71.17.0.0/16        | CA | arin     | 2006-02-06 | 2013-03-27 00:19:24.500000 | SASKTEL - Saskatchewan Telecommunications, CA
+7018    | 75.36.131.36     | 75.32.0.0/12        | US | arin     | 2006-02-28 | 2013-03-27 00:19:24.500000 | ATT-INTERNET4 - AT&T Services, Inc., US
+22773   | 72.193.255.38    | 72.193.0.0/16       | US | arin     | 2005-08-03 | 2013-03-27 00:19:24.500000 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+7922    | 24.147.215.18    | 24.147.0.0/16       | US | arin     |            | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7018    | 76.204.64.157    | 76.192.0.0/12       | US | arin     | 2006-09-15 | 2013-03-27 00:19:24.500000 | ATT-INTERNET4 - AT&T Services, Inc., US
+35662   | 80.243.180.32    | 80.243.176.0/20     | GB | ripencc  | 2005-09-16 | 2013-03-27 00:19:24.500000 | REDSTATION European Network, GB
+30036   | 173.31.185.100   | 173.31.176.0/20     | US | arin     | 2008-05-19 | 2013-03-27 00:19:24.500000 | MEDIACOM-ENTERPRISE-BUSINESS - Mediacom Communications Corp, US
+4922    | 24.49.10.138     | 24.49.0.0/20        | US | arin     | 2009-11-16 | 2013-03-27 00:19:24.500000 | SHENTEL - Shentel Communications, LLC, US
+701     | 98.109.225.204   | 98.109.0.0/16       | US | arin     | 2008-04-02 | 2013-03-27 00:19:24.500000 | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
+7922    | 69.250.128.92    | 69.240.0.0/12       | US | arin     | 2004-02-11 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+11351   | 72.224.70.170    | 72.224.0.0/16       | US | arin     | 2005-07-21 | 2013-03-27 00:19:24.500000 | RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC, US
+11351   | 72.224.70.220    | 72.224.0.0/16       | US | arin     | 2005-07-21 | 2013-03-27 00:19:24.500000 | RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC, US
+11351   | 72.224.69.33     | 72.224.0.0/16       | US | arin     | 2005-07-21 | 2013-03-27 00:19:24.500000 | RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC, US
+11351   | 72.224.75.39     | 72.224.0.0/16       | US | arin     | 2005-07-21 | 2013-03-27 00:19:24.500000 | RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC, US
+11351   | 72.224.80.181    | 72.224.0.0/16       | US | arin     | 2005-07-21 | 2013-03-27 00:19:24.500000 | RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC, US
+11351   | 72.224.80.31     | 72.224.0.0/16       | US | arin     | 2005-07-21 | 2013-03-27 00:19:24.500000 | RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC, US
+7922    | 98.249.195.184   | 98.192.0.0/10       | US | arin     | 2007-04-20 | 2013-03-27 00:19:24.500000 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7018    | 184.39.251.202   | 184.39.0.0/16       | US | arin     | 2009-10-08 | 2013-03-27 00:19:24.500000 | ATT-INTERNET4 - AT&T Services, Inc., US
+7018    | 99.11.142.113    | 99.0.0.0/12         | US | arin     | 2008-02-25 | 2013-03-27 00:19:24.500000 | ATT-INTERNET4 - AT&T Services, Inc., US
+20115   | 71.82.38.65      | 71.82.36.0/22       | US | arin     | 2005-05-19 | 2013-03-27 00:19:24.500000 | CHARTER-NET-HKY-NC - Charter Communications, US
+7018    | 99.11.140.160    | 99.0.0.0/12         | US | arin     | 2008-02-25 | 2013-03-27 00:19:24.500000 | ATT-INTERNET4 - AT&T Services, Inc., US
+32751   | 208.146.35.13    | 208.146.35.0/24     | US | arin     |            | 2013-03-27 00:19:24.500000 | NUCLEARFALLOUT-SEA - Nuclearfallout Enterprises, Inc., US
+20115   | 75.132.203.3     | 75.132.0.0/16       | US | arin     | 2006-07-17 | 2013-03-27 00:19:24.500000 | CHARTER-NET-HKY-NC - Charter Communications, US
+5089    | 80.192.255.210   | 80.192.0.0/15       | GB | ripencc  | 2001-09-26 | 2013-03-27 00:19:24.500000 | NTL , GB
+11426   | 98.26.148.1      | 98.26.0.0/16        | US | arin     | 2007-11-02 | 2013-03-27 00:19:24.500000 | SCRR-11426 - Time Warner Cable Internet LLC, US
