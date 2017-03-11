@@ -1,0 +1,124 @@
+Bulk mode; xp05-as26.svcs.ord08.cymru.com [2017-01-10 08:26:52 +0000]
+1221    | 138.217.213.120  | 138.217.0.0/16      | AU | apnic    |            | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+9443    | 203.142.149.165  | 203.142.144.0/20    | AU | apnic    | 2004-01-21 | 2013-05-24 01:23:23 | INTERNETPRIMUS-AS-AP Primus Telecommunications, AU
+12874   | 2.237.33.229     | 2.232.0.0/13        | IT | ripencc  | 2010-12-30 | 2013-05-24 01:23:23 | FASTWEB , IT
+701     | 173.79.46.118    | 173.79.0.0/16       | US | arin     | 2008-08-11 | 2013-05-24 01:23:23 | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
+5607    | 2.125.227.245    | 2.120.0.0/13        | GB | ripencc  | 2010-04-14 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS , GB
+5089    | 81.96.116.39     | 81.96.0.0/15        | GB | ripencc  | 2002-06-14 | 2013-05-24 01:23:23 | NTL , GB
+39729   | 81.88.50.212     | 81.88.48.0/20       | IT | ripencc  | 2006-04-10 | 2013-05-24 01:23:23 | REGISTER-AS , IT
+13414   | 199.59.149.165   | 199.59.148.0/22     | US | arin     | 2010-11-23 | 2013-05-24 01:23:23 | TWITTER - Twitter Inc., US
+14618   | 23.22.39.206     | 23.22.0.0/15        | US | arin     | 2011-09-19 | 2013-05-24 01:23:23 | AMAZON-AES - Amazon.com, Inc., US
+24931   | 89.151.116.53    | 89.151.64.0/18      | GB | ripencc  | 2006-04-06 | 2013-05-24 01:23:23 | DEDIPOWER , GB
+NA      | 74.112.131.126   | NA                  |    | arin     |            | 2013-05-24 01:23:23 | NA
+NA      | 72.30.161.221    | NA                  | US | arin     | 2005-01-28 | 2013-05-24 01:23:23 | NA
+14618   | 50.16.200.75     | 50.16.0.0/16        | US | arin     | 2010-10-07 | 2013-05-24 01:23:23 | AMAZON-AES - Amazon.com, Inc., US
+8075    | 65.52.0.51       | 65.52.0.0/14        | US | arin     | 2001-02-14 | 2013-05-24 01:23:23 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+9500    | 27.252.233.128   | 27.252.128.0/17     | NZ | apnic    | 2010-03-12 | 2013-05-24 01:23:23 | VODAFONE-TRANSIT-AS Vodafone NZ Ltd., NZ
+4768    | 121.72.120.184   | 121.72.0.0/15       | NZ | apnic    | 2006-06-09 | 2013-05-24 01:23:23 | CLIX-NZ TelstraClear Ltd, NZ
+14618   | 107.22.98.172    | 107.22.0.0/16       | US | arin     | 2011-05-03 | 2013-05-24 01:23:23 | AMAZON-AES - Amazon.com, Inc., US
+33070   | 50.56.241.70     | 50.56.128.0/17      | US | arin     | 2011-01-14 | 2013-05-24 01:23:23 | RMH-14 - Rackspace Hosting, US
+9790    | 101.98.106.206   | 101.98.0.0/16       | NZ | apnic    | 2010-12-22 | 2013-05-24 01:23:23 | CALLPLUS-NZ-AP CallPlus Services Limited, NZ
+4771    | 122.61.88.199    | 122.61.80.0/20      | NZ | apnic    | 2008-09-16 | 2013-05-24 01:23:23 | SPARKNZ Spark New Zealand Trading Ltd., NZ
+4181    | 96.60.219.20     | 96.60.0.0/15        | US | arin     | 2008-02-21 | 2013-05-24 01:23:23 | TDS-AS - TDS TELECOM, US
+16880   | 150.70.172.203   | 150.70.160.0/20     | JP | apnic    |            | 2013-05-24 01:23:23 | AS2-TRENDMICRO-COM - TREND MICRO INCORPORATED, US
+12322   | 82.224.177.32    | 82.224.0.0/12       | FR | ripencc  | 2003-11-04 | 2013-05-24 01:23:23 | PROXAD , FR
+5607    | 2.222.13.41      | 2.216.0.0/13        | GB | ripencc  | 2010-12-03 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS , GB
+11232   | 69.9.196.231     | 69.9.192.0/18       | US | arin     | 2002-12-04 | 2013-05-24 01:23:23 | MIDCO-NET - Midcontinent Communications, US
+24931   | 46.236.7.137     | 46.236.0.0/19       | GB | ripencc  | 2010-12-21 | 2013-05-24 01:23:23 | DEDIPOWER , GB
+33070   | 50.56.243.10     | 50.56.128.0/17      | US | arin     | 2011-01-14 | 2013-05-24 01:23:23 | RMH-14 - Rackspace Hosting, US
+6147    | 190.238.69.116   | 190.238.64.0/19     | PE | lacnic   | 2011-01-18 | 2013-05-24 01:23:23 | Telefonica del Peru S.A.A., PE
+18779   | 216.172.135.104  | 216.172.128.0/19    | US | arin     | 2011-06-21 | 2013-05-24 01:23:23 | EGIHOSTING - EGIHosting, US
+39603   | 164.126.72.163   | 164.126.0.0/15      | PL | ripencc  | 2011-11-14 | 2013-05-24 01:23:23 | P4NET P4 UMTS operator in Poland, PL
+9116    | 77.127.9.20      | 77.127.0.0/20       | IL | ripencc  | 2006-11-07 | 2013-05-24 01:23:23 | GOLDENLINES-ASN 012 Smile Communications Main Autonomous System, IL
+2856    | 86.135.99.211    | 86.128.0.0/12       | GB | ripencc  | 2005-02-07 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+16340   | 217.144.210.99   | 217.144.192.0/19    | PL | ripencc  | 2002-01-11 | 2013-05-24 01:23:23 | IS-ASN IS-NET Autonomous System, PL
+6830    | 89.69.112.222    | 89.64.0.0/13        | PL | ripencc  | 2006-02-22 | 2013-05-24 01:23:23 | LGI-UPC formerly known as UPC Broadband Holding B.V., AT
+21021   | 89.228.119.49    | 89.228.0.0/16       | PL | ripencc  | 2006-04-21 | 2013-05-24 01:23:23 | MULTIMEDIA-AS Cable DTV Internet Voice Provider in Poland., PL
+6830    | 89.79.246.129    | 89.72.0.0/13        | PL | ripencc  | 2006-02-22 | 2013-05-24 01:23:23 | LGI-UPC formerly known as UPC Broadband Holding B.V., AT
+35041   | 83.168.254.122   | 83.168.224.0/19     | SE | ripencc  | 2004-04-07 | 2013-05-24 01:23:23 | NET-CRYSTONE-STHLM , SE
+39729   | 81.88.50.211     | 81.88.48.0/20       | IT | ripencc  | 2006-04-10 | 2013-05-24 01:23:23 | REGISTER-AS , IT
+9143    | 217.121.205.53   | 217.120.0.0/15      | NL | ripencc  | 2000-12-19 | 2013-05-24 01:23:23 | ZIGGO Ziggo B.V., NL
+2119    | 83.109.92.138    | 83.108.0.0/15       | NO | ripencc  | 2004-01-09 | 2013-05-24 01:23:23 | TELENOR-NEXTEL Telenor Norge AS, NO
+39651   | 80.217.111.120   | 80.216.0.0/15       | SE | ripencc  | 2002-03-06 | 2013-05-24 01:23:23 | COMHEM-SWEDEN , SE
+15694   | 91.197.15.34     | 91.197.12.0/22      | CY | ripencc  | 2007-07-12 | 2013-05-24 01:23:23 | ATMAN-ISP-AS ATMAN_s ISP Autonomous System, PL
+701     | 108.40.47.121    | 108.40.0.0/17       | US | arin     | 2009-06-05 | 2013-05-24 01:23:23 | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
+30036   | 173.30.158.249   | 173.30.144.0/20     | US | arin     | 2008-05-19 | 2013-05-24 01:23:23 | MEDIACOM-ENTERPRISE-BUSINESS - Mediacom Communications Corp, US
+12271   | 68.174.233.145   | 68.174.192.0/18     | US | arin     | 2002-11-25 | 2013-05-24 01:23:23 | SCRR-12271 - Time Warner Cable Internet LLC, US
+30036   | 173.23.168.107   | 173.23.168.0/22     | US | arin     | 2008-05-19 | 2013-05-24 01:23:23 | MEDIACOM-ENTERPRISE-BUSINESS - Mediacom Communications Corp, US
+39729   | 81.88.50.215     | 81.88.48.0/20       | IT | ripencc  | 2006-04-10 | 2013-05-24 01:23:23 | REGISTER-AS , IT
+1680    | 89.138.46.200    | 89.138.0.0/16       | IL | ripencc  | 2006-02-08 | 2013-05-24 01:23:23 | NV-ASN 013 NetVision Ltd., IL
+32181   | 216.38.7.239     | 216.38.0.0/19       | US | arin     | 2010-02-19 | 2013-05-24 01:23:23 | ASN-GIGENET - GigeNET, US
+8228    | 88.136.15.222    | 88.136.0.0/14       | FR | ripencc  | 2005-09-16 | 2013-05-24 01:23:23 | CEGETEL-AS , FR
+18978   | 199.188.74.190   | 199.188.74.0/23     | US | arin     | 2012-05-01 | 2013-05-24 01:23:23 | ENZUINC-US - Enzu Inc, US
+12083   | 24.236.107.10    | 24.236.64.0/18      | US | arin     | 2003-02-28 | 2013-05-24 01:23:23 | WOW-INTERNET - WideOpenWest Finance LLC, US
+39729   | 81.88.50.214     | 81.88.48.0/20       | IT | ripencc  | 2006-04-10 | 2013-05-24 01:23:23 | REGISTER-AS , IT
+2119    | 83.109.134.185   | 83.108.0.0/15       | NO | ripencc  | 2004-01-09 | 2013-05-24 01:23:23 | TELENOR-NEXTEL Telenor Norge AS, NO
+39729   | 81.88.50.210     | 81.88.48.0/20       | IT | ripencc  | 2006-04-10 | 2013-05-24 01:23:23 | REGISTER-AS , IT
+14618   | 107.20.253.59    | 107.20.0.0/16       | US | arin     | 2011-05-03 | 2013-05-24 01:23:23 | AMAZON-AES - Amazon.com, Inc., US
+7922    | 76.16.237.147    | 76.16.0.0/12        | US | arin     | 2006-06-28 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+42708   | 46.246.93.117    | 46.246.0.0/17       | SE | ripencc  | 2011-01-27 | 2013-05-24 01:23:23 | PORTLANE www.portlane.com, SE
+29695   | 79.161.147.69    | 79.160.0.0/15       | NO | ripencc  | 2007-06-19 | 2013-05-24 01:23:23 | ALTIBOX_AS Norway, NO
+6128    | 68.192.80.101    | 68.192.0.0/13       | US | arin     | 2003-01-29 | 2013-05-24 01:23:23 | CABLE-NET-1 - Cablevision Systems Corp., US
+41164   | 84.208.198.156   | 84.208.128.0/17     | NO | ripencc  | 2005-07-07 | 2013-05-24 01:23:23 | GET-NO GET Norway, NO
+6871    | 87.114.10.112    | 87.114.0.0/16       | GB | ripencc  | 2005-07-29 | 2013-05-24 01:23:23 | PLUSNET UK Internet Service Provider, GB
+34087   | 217.168.89.115   | 217.168.80.0/20     | NO | ripencc  | 2003-12-08 | 2013-05-24 01:23:23 | NTE-BREDBAND Transits:, NO
+13285   | 78.144.186.52    | 78.144.0.0/14       | GB | ripencc  | 2007-05-10 | 2013-05-24 01:23:23 | OPALTELECOM-AS TalkTalk Communications Limited, GB
+41164   | 84.212.230.230   | 84.212.128.0/17     | NO | ripencc  | 2005-07-07 | 2013-05-24 01:23:23 | GET-NO GET Norway, NO
+21502   | 89.3.194.70      | 89.3.0.0/16         | FR | ripencc  | 2006-05-16 | 2013-05-24 01:23:23 | ASN-NUMERICABLE , FR
+3301    | 81.224.104.251   | 81.224.0.0/12       | SE | ripencc  | 2002-10-04 | 2013-05-24 01:23:23 | TELIANET-SWEDEN , SE
+2119    | 88.90.209.112    | 88.88.0.0/13        | NO | ripencc  | 2005-11-25 | 2013-05-24 01:23:23 | TELENOR-NEXTEL Telenor Norge AS, NO
+29695   | 81.166.193.170   | 81.166.0.0/15       | NO | ripencc  | 2005-01-04 | 2013-05-24 01:23:23 | ALTIBOX_AS Norway, NO
+32934   | 173.252.110.115  | 173.252.96.0/19     | US | arin     | 2011-02-28 | 2013-05-24 01:23:23 | FACEBOOK - Facebook, Inc., US
+3215    | 92.154.167.73    | 92.154.128.0/17     | FR | ripencc  | 2007-07-12 | 2013-05-24 01:23:23 | AS3215 , FR
+5607    | 2.216.159.173    | 2.216.0.0/13        | GB | ripencc  | 2010-12-03 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS , GB
+2856    | 86.161.218.211   | 86.128.0.0/10       | GB | ripencc  | 2005-02-07 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+803     | 69.11.48.202     | 69.11.0.0/17        | CA | arin     | 2003-05-13 | 2013-05-24 01:23:23 | SASKTEL - Saskatchewan Telecommunications, CA
+3215    | 82.124.220.248   | 82.124.0.0/16       | FR | ripencc  | 2003-10-21 | 2013-05-24 01:23:23 | AS3215 , FR
+8100    | 173.254.223.76   | 173.254.192.0/18    | US | arin     | 2010-10-19 | 2013-05-24 01:23:23 | ASN-QUADRANET-GLOBAL - QuadraNet, Inc, US
+5607    | 2.121.126.80     | 2.120.0.0/13        | GB | ripencc  | 2010-04-14 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS , GB
+3320    | 79.220.107.172   | 79.192.0.0/10       | DE | ripencc  | 2007-06-06 | 2013-05-24 01:23:23 | DTAG Internet service provider operations, DE
+1257    | 83.191.233.27    | 83.176.0.0/12       | SE | ripencc  | 2004-01-16 | 2013-05-24 01:23:23 | TELE2, SE
+12576   | 178.109.14.202   | 178.96.0.0/12       | GB | ripencc  | 2009-11-18 | 2013-05-24 01:23:23 | ORANGE-PCS , GB
+35132   | 62.50.175.160    | 62.50.160.0/19      | NO | ripencc  | 2005-03-10 | 2013-05-24 01:23:23 | ENIVEST-AS , NO
+2856    | 31.51.135.134    | 31.48.0.0/13        | GB | ripencc  | 2010-12-31 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+9143    | 94.210.166.78    | 94.208.0.0/14       | NL | ripencc  | 2008-07-22 | 2013-05-24 01:23:23 | ZIGGO Ziggo B.V., NL
+4739    | 124.148.206.198  | 124.148.192.0/20    | AU | apnic    | 2006-03-02 | 2013-05-24 01:23:23 | INTERNODE-AS Internode Pty Ltd, AU
+22773   | 68.231.130.88    | 68.231.128.0/18     | US | arin     | 2003-03-19 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+8075    | 65.52.100.214    | 65.52.0.0/14        | US | arin     | 2001-02-14 | 2013-05-24 01:23:23 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20454   | 198.15.79.146    | 198.15.64.0/18      | US | arin     | 2012-07-20 | 2013-05-24 01:23:23 | SSASN2 - SECURED SERVERS LLC, US
+6389    | 67.34.128.186    | 67.34.128.0/20      | US | arin     | 2001-11-01 | 2013-05-24 01:23:23 | BELLSOUTH-NET-BLK - BellSouth.net Inc., US
+24931   | 46.236.24.49     | 46.236.0.0/19       | GB | ripencc  | 2010-12-21 | 2013-05-24 01:23:23 | DEDIPOWER , GB
+25643   | 207.126.93.2     | 207.126.64.0/19     | US | arin     |            | 2013-05-24 01:23:23 | -Reserved AS-, ZZ
+577     | 174.91.65.104    | 174.91.0.0/16       | CA | arin     | 2009-02-27 | 2013-05-24 01:23:23 | BACOM - Bell Canada, CA
+16509   | 54.241.140.158   | 54.241.128.0/19     | US | arin     | 2011-12-09 | 2013-05-24 01:23:23 | AMAZON-02 - Amazon.com, Inc., US
+20115   | 75.128.135.204   | 75.128.128.0/20     | US | arin     | 2006-07-17 | 2013-05-24 01:23:23 | CHARTER-NET-HKY-NC - Charter Communications, US
+2856    | 86.153.130.47    | 86.128.0.0/11       | GB | ripencc  | 2005-02-07 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+33070   | 174.143.143.22   | 174.143.0.0/16      | US | arin     | 2009-01-20 | 2013-05-24 01:23:23 | RMH-14 - Rackspace Hosting, US
+14618   | 50.17.151.94     | 50.17.0.0/16        | US | arin     | 2010-10-07 | 2013-05-24 01:23:23 | AMAZON-AES - Amazon.com, Inc., US
+5607    | 5.71.14.7        | 5.64.0.0/13         | GB | ripencc  | 2012-06-11 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS , GB
+7018    | 108.253.50.169   | 108.192.0.0/10      | US | arin     | 2011-01-12 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+11427   | 173.173.97.85    | 173.172.0.0/14      | US | arin     | 2009-04-14 | 2013-05-24 01:23:23 | SCRR-11427 - Time Warner Cable Internet LLC, US
+5650    | 50.51.12.131     | 50.48.0.0/13        | US | arin     | 2010-09-24 | 2013-05-24 01:23:23 | FRONTIER-FRTR - Frontier Communications of America, Inc., US
+7922    | 162.17.116.234   | 162.17.0.0/16       | US | arin     | 2013-02-07 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+24931   | 46.236.24.51     | 46.236.0.0/19       | GB | ripencc  | 2010-12-21 | 2013-05-24 01:23:23 | DEDIPOWER , GB
+18403   | 58.187.33.70     | 58.187.32.0/20      | VN | apnic    | 2005-07-14 | 2013-05-24 01:23:23 | FPT-AS-AP The Corporation for Financing & Promoting Technology, VN
+33070   | 173.45.248.188   | 173.45.248.0/21     | US | arin     | 2008-10-13 | 2013-05-24 01:23:23 | RMH-14 - Rackspace Hosting, US
+7922    | 71.193.37.161    | 71.192.0.0/12       | US | arin     | 2005-07-27 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+22773   | 72.203.133.18    | 72.203.128.0/19     | US | arin     | 2005-08-03 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+33070   | 50.56.200.130    | 50.56.128.0/17      | US | arin     | 2011-01-14 | 2013-05-24 01:23:23 | RMH-14 - Rackspace Hosting, US
+14618   | 107.22.42.94     | 107.22.0.0/16       | US | arin     | 2011-05-03 | 2013-05-24 01:23:23 | AMAZON-AES - Amazon.com, Inc., US
+5607    | 90.215.84.168    | 90.192.0.0/11       | GB | ripencc  | 2007-06-14 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS , GB
+701     | 71.169.6.18      | 71.169.0.0/18       | US | arin     | 2005-06-01 | 2013-05-24 01:23:23 | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
+24931   | 46.236.24.50     | 46.236.0.0/19       | GB | ripencc  | 2010-12-21 | 2013-05-24 01:23:23 | DEDIPOWER , GB
+11351   | 74.76.142.145    | 74.76.0.0/14        | US | arin     | 2006-03-27 | 2013-05-24 01:23:23 | RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC, US
+5607    | 2.124.197.18     | 2.120.0.0/13        | GB | ripencc  | 2010-04-14 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS , GB
+24931   | 46.236.24.48     | 46.236.0.0/19       | GB | ripencc  | 2010-12-21 | 2013-05-24 01:23:23 | DEDIPOWER , GB
+5607    | 90.193.231.121   | 90.192.0.0/11       | GB | ripencc  | 2006-05-31 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS , GB
+5607    | 90.205.148.179   | 90.192.0.0/11       | GB | ripencc  | 2006-05-31 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS , GB
+701     | 173.76.246.203   | 173.76.0.0/16       | US | arin     | 2008-08-11 | 2013-05-24 01:23:23 | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
+5607    | 151.224.219.215  | 151.224.0.0/13      | GB | ripencc  | 2012-08-09 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS , GB
+5089    | 82.30.39.161     | 82.28.0.0/14        | GB | ripencc  | 2003-02-28 | 2013-05-24 01:23:23 | NTL , GB
+21321   | 199.255.210.52   | 199.255.210.0/24    | US | arin     | 2010-06-03 | 2013-05-24 01:23:23 | ARETI-AS , GB
+24931   | 46.236.24.54     | 46.236.0.0/19       | GB | ripencc  | 2010-12-21 | 2013-05-24 01:23:23 | DEDIPOWER , GB
+32934   | 69.171.247.118   | 69.171.240.0/20     | US | arin     | 2010-08-05 | 2013-05-24 01:23:23 | FACEBOOK - Facebook, Inc., US
+5089    | 86.21.181.195    | 86.21.128.0/17      | GB | ripencc  | 2005-03-29 | 2013-05-24 01:23:23 | NTL , GB
