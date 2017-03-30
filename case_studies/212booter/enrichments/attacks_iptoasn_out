@@ -1,1 +1,705 @@
-Bulk mode; xp05-as26.svcs.ord08.cymru.com [2017-01-10 08:26:55 +0000]
+Bulk mode; xp05-as26.svcs.ord08.cymru.com [2017-03-28 07:50:21 +0000]
+3842    | 192.184.90.118   | 192.184.88.0/21     | US | arin     | 2013-05-28 | 2013-05-24 01:23:23 | RAMNODE - RamNode LLC, US
+8972    | 85.25.95.84      | 85.25.0.0/16        | DE | ripencc  | 2005-03-01 | 2013-05-24 01:23:23 | PLUSSERVER-AS, DE
+6939    | 66.160.140.234   | 66.160.128.0/18     | US | arin     | 2003-10-09 | 2013-05-24 01:23:23 | HURRICANE - Hurricane Electric, Inc., US
+36352   | 198.144.177.186  | 198.144.176.0/21    | US | arin     | 2012-04-06 | 2013-05-24 01:23:23 | AS-COLOCROSSING - ColoCrossing, US
+Error: no ASN or IP match on line 7.
+5089    | 80.3.189.108     | 80.3.128.0/17       | GB | ripencc  | 2001-04-25 | 2013-05-24 01:23:23 | NTL, GB
+46606   | 192.232.249.160  | 192.232.248.0/22    | US | arin     | 2013-05-16 | 2013-05-24 01:23:23 | UNIFIEDLAYER-AS-1 - Unified Layer, US
+13213   | 83.170.94.72     | 83.170.64.0/18      | GB | ripencc  | 2004-04-20 | 2013-05-24 01:23:23 | UK2NET-AS, GB
+10139   | 121.54.92.25     | 121.54.92.0/22      | PH | apnic    | 2006-06-19 | 2013-05-24 01:23:23 | SMARTBRO-PH-AP Smart Broadband, Inc., PH
+16276   | 176.31.208.240   | 176.31.0.0/16       | FR | ripencc  | 2011-05-20 | 2013-05-24 01:23:23 | OVH, FR
+7922    | 71.230.226.89    | 71.224.0.0/12       | US | arin     | 2005-04-15 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+10139   | 125.60.156.219   | 125.60.152.0/21     | PH | apnic    | 2005-09-07 | 2013-05-24 01:23:23 | SMARTBRO-PH-AP Smart Broadband, Inc., PH
+4775    | 120.28.170.175   | 120.28.0.0/16       | PH | apnic    | 2008-03-13 | 2013-05-24 01:23:23 | GLOBE-TELECOM-AS Globe Telecoms, PH
+9299    | 112.204.28.190   | 112.204.0.0/19      | PH | apnic    | 2009-02-16 | 2013-05-24 01:23:23 | IPG-AS-AP Philippine Long Distance Telephone Company, PH
+33363   | 72.40.121.36     | 72.40.0.0/17        | US | arin     | 2005-03-07 | 2013-05-24 01:23:23 | BHN-TAMPA - BRIGHT HOUSE NETWORKS, LLC, US
+3223    | 185.5.174.59     | 185.5.174.0/24      | RO | ripencc  | 2012-10-04 | 2013-05-24 01:23:23 | VOXILITY, RO
+49981   | 217.23.4.171     | 217.23.0.0/20       | NL | ripencc  | 2009-02-04 | 2013-05-24 01:23:23 | WORLDSTREAM +++ Transit Imports, NL
+199610  | 194.169.211.15   | 194.169.211.0/24    | DE | ripencc  | 2006-12-07 | 2013-05-24 01:23:23 | MARBIS, DE
+24940   | 88.198.43.78     | 88.198.0.0/16       | DE | ripencc  | 2005-12-27 | 2013-05-24 01:23:23 | HETZNER-AS, DE
+36352   | 75.127.10.153    | 75.127.10.0/23      | US | arin     | 2012-05-09 | 2013-05-24 01:23:23 | AS-COLOCROSSING - ColoCrossing, US
+51167   | 178.238.239.196  | 178.238.238.0/23    | DE | ripencc  | 2010-07-28 | 2013-05-24 01:23:23 | CONTABO, DE
+32590   | 208.78.165.182   | 208.78.164.0/23     | US | arin     | 2012-08-27 | 2013-05-24 01:23:23 | VALVE-CORPORATION - Valve Corporation, US
+14618   | 54.225.229.251   | 54.224.0.0/15       | US | arin     | 2012-03-01 | 2013-05-24 01:23:23 | AMAZON-AES - Amazon.com, Inc., US
+36352   | 75.127.2.53      | 75.127.2.0/23       | US | arin     | 2012-05-09 | 2013-05-24 01:23:23 | AS-COLOCROSSING - ColoCrossing, US
+13335   | 141.101.126.114  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | 2013-05-24 01:23:23 | CLOUDFLARENET - CloudFlare, Inc., US
+6327    | 24.71.20.170     | 24.71.20.0/22       | CA | arin     |            | 2013-05-24 01:23:23 | SHAW - Shaw Communications Inc., CA
+9394    | 110.0.196.184    | 110.0.0.0/16        | JP | apnic    | 2009-02-17 | 2013-05-24 01:23:23 | CTTNET China TieTong Telecommunications Corporation, CN
+10013   | 111.234.143.153  | 111.234.128.0/18    | JP | apnic    | 2009-08-07 | 2013-05-24 01:23:23 | FBDC FreeBit Co.,Ltd., JP
+46606   | 198.57.223.27    | 198.57.128.0/17     | US | arin     | 2012-07-27 | 2013-05-24 01:23:23 | UNIFIEDLAYER-AS-1 - Unified Layer, US
+10139   | 121.54.58.137    | 121.54.56.0/21      | PH | apnic    | 2006-06-19 | 2013-05-24 01:23:23 | SMARTBRO-PH-AP Smart Broadband, Inc., PH
+7018    | 99.109.103.137   | 99.96.0.0/11        | US | arin     | 2008-02-25 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+1246    | 64.188.214.231   | 64.188.212.0/22     | US | arin     | 2009-03-26 | 2013-05-24 01:23:23 | TLL-WEST - Zito Media, US
+4181    | 69.130.122.150   | 69.128.0.0/14       | US | arin     | 2003-03-25 | 2013-05-24 01:23:23 | TDS-AS - TDS TELECOM, US
+42560   | 188.127.113.218  | 188.127.96.0/19     | BA | ripencc  | 2009-07-29 | 2013-05-24 01:23:23 | BA-TELEMACH-AS Telemach d.o.o. Sarajevo, BA
+8342    | 81.176.229.141   | 81.176.0.0/16       | RU | ripencc  | 2003-01-15 | 2013-05-24 01:23:23 | RTCOMM-AS, RU
+40065   | 199.83.50.198    | 199.83.50.0/24      | US | arin     | 2012-01-13 | 2013-05-24 01:23:23 | CNSERVERS - CNSERVERS LLC, US
+21412   | 77.221.80.147    | 77.221.64.0/19      | LT | ripencc  | 2007-03-27 | 2013-05-24 01:23:23 | CGATES-AS, LT
+24852   | 213.164.97.37    | 213.164.96.0/19     | LT | ripencc  | 2002-10-23 | 2013-05-24 01:23:23 | VINITA, LT
+33363   | 184.91.99.17     | 184.88.0.0/14       | US | arin     | 2010-03-31 | 2013-05-24 01:23:23 | BHN-TAMPA - BRIGHT HOUSE NETWORKS, LLC, US
+2856    | 81.132.177.246   | 81.128.0.0/12       | GB | ripencc  | 2002-07-25 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+9394    | 110.0.196.184    | 110.0.0.0/16        | JP | apnic    | 2009-02-17 | 2013-05-24 01:23:23 | CTTNET China TieTong Telecommunications Corporation, CN
+6648    | 110.55.3.60      | 110.55.2.0/23       | PH | apnic    | 2009-03-25 | 2013-05-24 01:23:23 | BAYAN-TELECOMMUNICATIONS Bayan Telecommunications, Inc., PH
+6648    | 110.55.3.60      | 110.55.2.0/23       | PH | apnic    | 2009-03-25 | 2013-05-24 01:23:23 | BAYAN-TELECOMMUNICATIONS Bayan Telecommunications, Inc., PH
+852     | 108.180.122.17   | 108.180.0.0/16      | CA | arin     | 2012-07-19 | 2013-05-24 01:23:23 | ASN852 - TELUS Communications Inc., CA
+Error: no ASN or IP match on line 47.
+8075    | 168.62.23.92     | 168.62.0.0/15       | US | arin     | 2011-06-22 | 2013-05-24 01:23:23 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+16276   | 198.100.146.144  | 198.100.144.0/20    | CA | arin     | 2012-07-05 | 2013-05-24 01:23:23 | OVH, FR
+9299    | 112.204.30.190   | 112.204.0.0/19      | PH | apnic    | 2009-02-16 | 2013-05-24 01:23:23 | IPG-AS-AP Philippine Long Distance Telephone Company, PH
+20115   | 71.10.110.90     | 71.10.96.0/20       | US | arin     | 2004-10-01 | 2013-05-24 01:23:23 | CHARTER-NET-HKY-NC - Charter Communications, US
+20001   | 76.174.219.229   | 76.168.0.0/13       | US | arin     | 2006-07-26 | 2013-05-24 01:23:23 | ROADRUNNER-WEST - Time Warner Cable Internet LLC, US
+6648    | 125.212.41.12    | 125.212.41.0/24     | PH | apnic    | 2005-10-13 | 2013-05-24 01:23:23 | BAYAN-TELECOMMUNICATIONS Bayan Telecommunications, Inc., PH
+7018    | 108.239.135.0    | 108.192.0.0/10      | US | arin     | 2011-01-12 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+20001   | 98.149.171.195   | 98.148.0.0/15       | US | arin     | 2007-12-18 | 2013-05-24 01:23:23 | ROADRUNNER-WEST - Time Warner Cable Internet LLC, US
+NA      | 185.5.173.128    | NA                  | RO | ripencc  | 2012-10-04 | 2013-05-24 01:23:23 | NA
+132199  | 112.198.82.172   | 112.198.82.0/24     | PH | apnic    | 2009-02-12 | 2013-05-24 01:23:23 | GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
+4788    | 175.143.240.252  | 175.143.192.0/18    | MY | apnic    | 2010-01-08 | 2013-05-24 01:23:23 | TMNET-AS-AP TM Net, Internet Service Provider, MY
+9299    | 112.204.97.0     | 112.204.96.0/19     | PH | apnic    | 2009-02-16 | 2013-05-24 01:23:23 | IPG-AS-AP Philippine Long Distance Telephone Company, PH
+2856    | 86.133.180.17    | 86.128.0.0/12       | GB | ripencc  | 2005-02-07 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+40065   | 162.212.252.212  | 162.212.252.0/24    | US | arin     | 2013-05-29 | 2013-05-24 01:23:23 | CNSERVERS - CNSERVERS LLC, US
+2856    | 86.133.180.17    | 86.128.0.0/12       | GB | ripencc  | 2005-02-07 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+22773   | 70.185.205.83    | 70.185.192.0/18     | US | arin     | 2004-07-21 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+9299    | 112.205.63.85    | 112.205.32.0/19     | PH | apnic    | 2009-02-16 | 2013-05-24 01:23:23 | IPG-AS-AP Philippine Long Distance Telephone Company, PH
+30633   | 108.59.12.129    | 108.59.0.0/20       | US | arin     | 2010-11-18 | 2013-05-24 01:23:23 | LEASEWEB-USA-WDC-01 - Leaseweb USA, Inc., US
+16586   | 184.79.88.186    | 184.79.0.0/16       | US | arin     | 2010-02-12 | 2013-05-24 01:23:23 | CLEARWIRE - CLEAR WIRELESS LLC, US
+7922    | 98.198.56.111    | 98.192.0.0/10       | US | arin     | 2007-04-20 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+6389    | 67.34.128.186    | 67.34.128.0/20      | US | arin     | 2001-11-01 | 2013-05-24 01:23:23 | BELLSOUTH-NET-BLK - BellSouth.net Inc., US
+6128    | 67.86.213.155    | 67.80.0.0/13        | US | arin     | 2001-11-09 | 2013-05-24 01:23:23 | CABLE-NET-1 - Cablevision Systems Corp., US
+7922    | 76.113.136.249   | 76.96.0.0/11        | US | arin     | 2007-01-02 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+22773   | 72.201.21.90     | 72.201.0.0/16       | US | arin     | 2005-08-03 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+7018    | 108.228.252.81   | 108.192.0.0/10      | US | arin     | 2011-01-12 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+49981   | 217.23.1.72      | 217.23.0.0/20       | NL | ripencc  | 2009-02-04 | 2013-05-24 01:23:23 | WORLDSTREAM +++ Transit Imports, NL
+132199  | 180.191.33.110   | 180.191.32.0/19     | PH | apnic    | 2009-09-17 | 2013-05-24 01:23:23 | GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
+8972    | 62.75.236.23     | 62.75.128.0/17      | DE | ripencc  | 2001-07-27 | 2013-05-24 01:23:23 | PLUSSERVER-AS, DE
+16276   | 198.100.150.215  | 198.100.144.0/20    | CA | arin     | 2012-07-05 | 2013-05-24 01:23:23 | OVH, FR
+24940   | 144.76.64.208    | 144.76.0.0/16       | DE | ripencc  |            | 2013-05-24 01:23:23 | HETZNER-AS, DE
+8972    | 85.25.143.66     | 85.25.0.0/16        | DE | ripencc  | 2005-12-05 | 2013-05-24 01:23:23 | PLUSSERVER-AS, DE
+13789   | 74.91.116.228    | 74.91.116.0/24      | US | arin     | 2011-04-13 | 2013-05-24 01:23:23 | INTERNAP-BLK3 - Internap Network Services Corporation, US
+26496   | 50.62.241.1      | 50.62.240.0/22      | US | arin     | 2011-02-02 | 2013-05-24 01:23:23 | AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+8048    | 201.210.109.88   | 201.210.96.0/19     | VE | lacnic   | 2005-08-09 | 2013-05-24 01:23:23 | CANTV Servicios, Venezuela, VE
+15169   | 173.194.70.121   | 173.194.70.0/24     | US | arin     | 2009-08-17 | 2013-05-24 01:23:23 | GOOGLE - Google Inc., US
+32421   | 192.31.186.15    | 192.31.184.0/22     | US | arin     | 2012-11-20 | 2013-05-24 01:23:23 | BLCC - Black Lotus Communications, US
+Error: no ASN or IP match on line 84.
+12179   | 74.201.57.71     | 74.201.57.0/24      | US | arin     | 2006-11-13 | 2013-05-24 01:23:23 | INTERNAP-2BLK - Internap Network Services Corporation, US
+25761   | 69.197.24.138    | 69.197.0.0/19       | US | arin     | 2008-05-15 | 2013-05-24 01:23:23 | STAMINUS-COMM - Staminus Communications, US
+12179   | 74.201.57.13     | 74.201.57.0/24      | US | arin     | 2006-11-13 | 2013-05-24 01:23:23 | INTERNAP-2BLK - Internap Network Services Corporation, US
+NA      | 185.8.196.196    | NA                  | IT | ripencc  | 2012-11-02 | 2013-05-24 01:23:23 | NA
+701     | 173.72.212.192   | 173.72.128.0/17     | US | arin     | 2008-08-11 | 2013-05-24 01:23:23 | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
+21321   | 74.115.1.248     | 74.115.1.0/24       | US | arin     | 2009-06-18 | 2013-05-24 01:23:23 | ARETI-AS, GB
+15133   | 72.21.81.131     | 72.21.81.0/24       | US | arin     | 2007-04-23 | 2013-05-24 01:23:23 | EDGECAST - MCI Communications Services, Inc. d/b/a Verizon Business, US
+19437   | 198.24.178.180   | 198.24.160.0/19     | US | arin     | 2012-10-30 | 2013-05-24 01:23:23 | SS-ASH - SECURED SERVERS LLC, US
+8970    | 156.17.9.177     | 156.17.0.0/16       | PL | ripencc  |            | 2013-05-24 01:23:23 | WASK WROCMAN-EDU educational part of WASK network, Wroclaw, Poland, PL
+12301   | 91.83.41.39      | 91.82.0.0/15        | HU | ripencc  | 2006-07-27 | 2013-05-24 01:23:23 | INVITEL, HU
+12741   | 85.128.14.125    | 85.128.0.0/17       | PL | ripencc  | 2004-10-27 | 2013-05-24 01:23:23 | AS-NETIA Warszawa 02-822, PL
+NA      | 1.1.1.1          | NA                  | AU | apnic    | 2011-08-11 | 2013-05-24 01:23:23 | NA
+13045   | 89.182.43.14     | 89.182.0.0/16       | DE | ripencc  | 2006-04-06 | 2013-05-24 01:23:23 | HTP-AS, DE
+42560   | 188.127.105.131  | 188.127.96.0/19     | BA | ripencc  | 2009-07-29 | 2013-05-24 01:23:23 | BA-TELEMACH-AS Telemach d.o.o. Sarajevo, BA
+5607    | 94.3.123.110     | 94.0.0.0/12         | GB | ripencc  | 2008-05-27 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+6389    | 98.68.145.17     | 98.68.128.0/17      | US | arin     | 2008-01-07 | 2013-05-24 01:23:23 | BELLSOUTH-NET-BLK - BellSouth.net Inc., US
+209     | 71.52.64.174     | 71.52.64.0/19       | US | arin     | 2005-04-26 | 2013-05-24 01:23:23 | CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company, LLC, US
+8151    | 187.170.202.91   | 187.170.192.0/19    | MX | lacnic   | 2010-03-02 | 2013-05-24 01:23:23 | Uninet S.A. de C.V., MX
+701     | 108.11.137.241   | 108.11.128.0/19     | US | arin     | 2009-06-05 | 2013-05-24 01:23:23 | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
+6128    | 24.45.209.243    | 24.44.0.0/14        | US | arin     | 2001-05-01 | 2013-05-24 01:23:23 | CABLE-NET-1 - Cablevision Systems Corp., US
+35094   | 178.74.5.114     | 178.74.0.0/19       | NO | ripencc  | 2010-03-23 | 2013-05-24 01:23:23 | PRONEA, NO
+2856    | 86.173.156.125   | 86.128.0.0/10       | GB | ripencc  | 2005-02-07 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+13999   | 187.247.168.200  | 187.247.168.0/22    | MX | lacnic   | 2012-03-16 | 2013-05-24 01:23:23 | Mega Cable, S.A. de C.V., MX
+2856    | 109.150.127.206  | 109.144.0.0/12      | GB | ripencc  | 2009-08-06 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+198813  | 93.89.107.123    | 93.89.96.0/20       | CZ | ripencc  | 2008-04-04 | 2013-05-24 01:23:23 | SYCHROVNET, CZ
+11427   | 173.172.44.148   | 173.172.0.0/14      | US | arin     | 2009-04-14 | 2013-05-24 01:23:23 | SCRR-11427 - Time Warner Cable Internet LLC, US
+NA      | 185.8.196.151    | NA                  | IT | ripencc  | 2012-11-02 | 2013-05-24 01:23:23 | NA
+NA      | 185.8.196.175    | NA                  | IT | ripencc  | 2012-11-02 | 2013-05-24 01:23:23 | NA
+9318    | 1.227.163.138    | 1.224.0.0/13        | KR | apnic    | 2010-07-19 | 2013-05-24 01:23:23 | SKB-AS SK Broadband Co Ltd, KR
+16276   | 37.187.50.9      | 37.187.0.0/16       | FR | ripencc  | 2012-03-20 | 2013-05-24 01:23:23 | OVH, FR
+32590   | 208.78.165.22    | 208.78.164.0/23     | US | arin     | 2012-08-27 | 2013-05-24 01:23:23 | VALVE-CORPORATION - Valve Corporation, US
+19871   | 205.178.189.129  | 205.178.189.0/24    | US | arin     |            | 2013-05-24 01:23:23 | NETWORK-SOLUTIONS-HOSTING - Network Solutions, LLC, US
+8075    | 168.63.55.14     | 168.62.0.0/15       | US | arin     | 2011-06-22 | 2013-05-24 01:23:23 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+8075    | 65.52.24.110     | 65.52.0.0/14        | US | arin     | 2001-02-14 | 2013-05-24 01:23:23 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+8075    | 168.61.144.13    | 168.61.0.0/16       | US | arin     | 2011-06-22 | 2013-05-24 01:23:23 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+7922    | 50.167.28.221    | 50.128.0.0/9        | US | arin     | 2010-10-21 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+11854   | 75.98.17.38      | 75.98.16.0/20       | US | arin     | 2009-02-24 | 2013-05-24 01:23:23 | ASN-INTERNAP-BLK - Internap Network Services Corporation, US
+46475   | 74.63.239.234    | 74.63.192.0/18      | US | arin     | 2008-08-29 | 2013-05-24 01:23:23 | LIMESTONENETWORKS - Limestone Networks, Inc., US
+29073   | 94.102.51.225    | 94.102.48.0/20      | NL | ripencc  | 2008-08-29 | 2013-05-24 01:23:23 | QUASINETWORKS, NL
+8512    | 195.199.206.185  | 195.199.0.0/16      | HU | ripencc  |            | 2013-05-24 01:23:23 | , HU
+42708   | 46.246.89.201    | 46.246.0.0/17       | SE | ripencc  | 2011-01-27 | 2013-05-24 01:23:23 | PORTLANE www.portlane.com, SE
+NA      | 77.111.205.127   | NA                  | GB | ripencc  | 2007-02-08 | 2013-05-24 01:23:23 | NA
+32475   | 69.175.106.134   | 69.175.0.0/17       | US | arin     | 2009-05-04 | 2013-05-24 01:23:23 | SINGLEHOP-LLC - SingleHop, Inc., US
+8764    | 88.119.150.86    | 88.119.144.0/20     | LT | ripencc  | 2005-10-24 | 2013-05-24 01:23:23 | TELIA-LIETUVA, LT
+29422   | 188.117.44.132   | 188.117.0.0/18      | FI | ripencc  | 2009-06-11 | 2013-05-24 01:23:23 | NBLNETWORKS-AS Nebula Oy, FI
+3320    | 91.51.84.233     | 91.0.0.0/10         | DE | ripencc  | 2006-07-03 | 2013-05-24 01:23:23 | DTAG Internet service provider operations, DE
+3320    | 93.230.121.160   | 93.192.0.0/10       | DE | ripencc  | 2008-02-12 | 2013-05-24 01:23:23 | DTAG Internet service provider operations, DE
+30827   | 109.233.115.107  | 109.233.112.0/22    | GB | ripencc  | 2009-12-17 | 2013-05-24 01:23:23 | XTRAORDINARY-AS --- Transit providers ---, GB
+12083   | 66.203.234.206   | 66.203.224.0/20     | US | arin     | 2001-12-03 | 2013-05-24 01:23:23 | WOW-INTERNET - WideOpenWest Finance LLC, US
+7922    | 50.128.250.32    | 50.128.0.0/9        | US | arin     | 2010-10-21 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+46475   | 208.115.218.50   | 208.115.192.0/18    | US | arin     | 2010-01-06 | 2013-05-24 01:23:23 | LIMESTONENETWORKS - Limestone Networks, Inc., US
+16276   | 198.27.83.134    | 198.27.64.0/18      | CA | arin     | 2012-08-28 | 2013-05-24 01:23:23 | OVH, FR
+13789   | 192.223.24.27    | 192.223.24.0/24     | US | arin     | 2012-09-06 | 2013-05-24 01:23:23 | INTERNAP-BLK3 - Internap Network Services Corporation, US
+46606   | 198.154.207.11   | 198.154.200.0/21    | US | arin     | 2012-09-21 | 2013-05-24 01:23:23 | UNIFIEDLAYER-AS-1 - Unified Layer, US
+36352   | 198.144.179.110  | 198.144.176.0/21    | US | arin     | 2012-04-06 | 2013-05-24 01:23:23 | AS-COLOCROSSING - ColoCrossing, US
+46475   | 64.31.39.212     | 64.31.0.0/18        | US | arin     | 2010-12-27 | 2013-05-24 01:23:23 | LIMESTONENETWORKS - Limestone Networks, Inc., US
+6181    | 216.68.141.62    | 216.68.0.0/16       | US | arin     |            | 2013-05-24 01:23:23 | FUSE-NET - Cincinnati Bell Telephone Company LLC, US
+6939    | 216.218.226.117  | 216.218.128.0/17    | US | arin     |            | 2013-05-24 01:23:23 | HURRICANE - Hurricane Electric, Inc., US
+13789   | 192.223.27.177   | 192.223.27.0/24     | US | arin     | 2012-09-06 | 2013-05-24 01:23:23 | INTERNAP-BLK3 - Internap Network Services Corporation, US
+32751   | 74.91.117.30     | 74.91.117.0/24      | US | arin     | 2011-04-13 | 2013-05-24 01:23:23 | NUCLEARFALLOUT-SEA - Nuclearfallout Enterprises, Inc., US
+Error: no ASN or IP match on line 145.
+36937   | 41.162.184.240   | 41.160.0.0/14       | ZA | afrinic  | 2007-02-22 | 2013-05-24 01:23:23 | Neotel-AS, ZA
+NA      | 108.162.201.78   | NA                  | US | arin     | 2011-10-28 | 2013-05-24 01:23:23 | NA
+16276   | 192.95.39.159    | 192.95.0.0/18       | CA | arin     | 2012-12-07 | 2013-05-24 01:23:23 | OVH, FR
+24940   | 144.76.93.177    | 144.76.0.0/16       | DE | ripencc  |            | 2013-05-24 01:23:23 | HETZNER-AS, DE
+8972    | 85.25.145.50     | 85.25.0.0/16        | DE | ripencc  | 2005-12-05 | 2013-05-24 01:23:23 | PLUSSERVER-AS, DE
+32475   | 184.154.57.155   | 184.154.0.0/16      | US | arin     | 2010-06-21 | 2013-05-24 01:23:23 | SINGLEHOP-LLC - SingleHop, Inc., US
+16276   | 142.4.223.222    | 142.4.192.0/19      | CA | arin     | 2012-07-23 | 2013-05-24 01:23:23 | OVH, FR
+36352   | 198.46.128.21    | 198.46.128.0/24     | US | arin     | 2013-03-12 | 2013-05-24 01:23:23 | AS-COLOCROSSING - ColoCrossing, US
+53667   | 209.141.38.203   | 209.141.38.0/24     | US | arin     | 2011-01-27 | 2013-05-24 01:23:23 | PONYNET - FranTech Solutions, US
+13790   | 72.5.102.25      | 72.5.102.0/24       | US | arin     | 2004-09-30 | 2013-05-24 01:23:23 | INTERNAP-BLK3 - Internap Network Services Corporation, US
+6939    | 216.218.186.2    | 216.218.128.0/17    | US | arin     |            | 2013-05-24 01:23:23 | HURRICANE - Hurricane Electric, Inc., US
+10507   | 66.87.145.14     | 66.87.145.0/24      | US | arin     | 2001-03-27 | 2013-05-24 01:23:23 | SPCS - Sprint Personal Communications Systems, US
+Error: no ASN or IP match on line 158.
+8075    | 138.91.88.79     | 138.91.0.0/16       | US | arin     | 2011-06-22 | 2013-05-24 01:23:23 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+46606   | 74.220.207.152   | 74.220.192.0/19     | US | arin     | 2007-01-09 | 2013-05-24 01:23:23 | UNIFIEDLAYER-AS-1 - Unified Layer, US
+34309   | 128.65.209.88    | 128.65.208.0/20     | DE | ripencc  | 2011-10-07 | 2013-05-24 01:23:23 | LINK11 Link11 GmbH, DE
+24940   | 46.4.191.208     | 46.4.0.0/16         | DE | ripencc  | 2010-08-19 | 2013-05-24 01:23:23 | HETZNER-AS, DE
+209     | 174.21.127.53    | 174.16.0.0/12       | US | arin     | 2009-02-17 | 2013-05-24 01:23:23 | CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company, LLC, US
+40065   | 162.212.253.19   | 162.212.253.0/24    | US | arin     | 2013-05-29 | 2013-05-24 01:23:23 | CNSERVERS - CNSERVERS LLC, US
+7922    | 24.16.181.33     | 24.16.0.0/13        | US | arin     | 2003-12-08 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+855     | 142.163.93.230   | 142.163.88.0/21     | CA | arin     |            | 2013-05-24 01:23:23 | CANET-ASN-4 - Bell Aliant Regional Communications, Inc., CA
+13335   | 190.93.251.102   | 190.93.240.0/20     | CR | lacnic   | 2012-03-19 | 2013-05-24 01:23:23 | CLOUDFLARENET - CloudFlare, Inc., US
+17353   | 205.211.96.251   | 205.211.96.0/24     | CA | arin     |            | 2013-05-24 01:23:23 | AS-SCDSB - Simcoe County District School Board, CA
+12586   | 37.114.59.103    | 37.114.59.0/24      | DE | ripencc  | 2012-02-10 | 2013-05-24 01:23:23 | ASGHOSTNET, DE
+6507    | 95.172.65.26     | 95.172.65.0/24      | GB | ripencc  | 2009-02-26 | 2013-05-24 01:23:23 | RIOT-NA1 - Riot Games, Inc, US
+3320    | 87.152.96.166    | 87.128.0.0/10       | DE | ripencc  | 2005-05-03 | 2013-05-24 01:23:23 | DTAG Internet service provider operations, DE
+7922    | 66.176.31.149    | 66.176.0.0/15       | US | arin     | 2001-10-01 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+3223    | 37.221.169.133   | 37.221.168.0/23     | RO | ripencc  | 2012-04-05 | 2013-05-24 01:23:23 | VOXILITY, RO
+NA      | 185.5.173.240    | NA                  | RO | ripencc  | 2012-10-04 | 2013-05-24 01:23:23 | NA
+24940   | 176.9.175.86     | 176.9.0.0/16        | DE | ripencc  | 2011-05-17 | 2013-05-24 01:23:23 | HETZNER-AS, DE
+34309   | 128.65.209.24    | 128.65.208.0/20     | DE | ripencc  | 2011-10-07 | 2013-05-24 01:23:23 | LINK11 Link11 GmbH, DE
+11425   | 98.143.45.55     | 98.143.32.0/20      | US | arin     | 2009-04-29 | 2013-05-24 01:23:23 | CWIE - CWIE, LLC, US
+3223    | 109.163.231.223  | 109.163.230.0/23    | RO | ripencc  | 2011-09-16 | 2013-05-24 01:23:23 | VOXILITY, RO
+47583   | 31.170.166.47    | 31.170.166.0/23     | US | ripencc  | 2011-03-30 | 2013-05-24 01:23:23 | HOSTINGER-AS, LT
+2119    | 213.112.53.185   | 213.112.0.0/14      | SE | ripencc  | 2000-03-14 | 2013-05-24 01:23:23 | TELENOR-NEXTEL Telenor Norge AS, NO
+13285   | 2.97.43.176      | 2.96.0.0/14         | GB | ripencc  | 2010-04-21 | 2013-05-24 01:23:23 | OPALTELECOM-AS TalkTalk Communications Limited, GB
+NA      | 108.162.198.222  | NA                  | US | arin     | 2011-10-28 | 2013-05-24 01:23:23 | NA
+33182   | 198.136.50.5     | 198.136.48.0/20     | US | arin     | 2012-04-03 | 2013-05-24 01:23:23 | DIMENOC - HostDime.com, Inc., US
+NA      | 1.1.1.3          | NA                  | AU | apnic    | 2011-08-11 | 2013-05-24 01:23:23 | NA
+NA      | 1.1.1.5          | NA                  | AU | apnic    | 2011-08-11 | 2013-05-24 01:23:23 | NA
+35662   | 109.73.79.161    | 109.73.64.0/20      | GB | ripencc  | 2011-02-11 | 2013-05-24 01:23:23 | REDSTATION European Network, GB
+13335   | 141.101.117.19   | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | 2013-05-24 01:23:23 | CLOUDFLARENET - CloudFlare, Inc., US
+24940   | 144.76.49.85     | 144.76.0.0/16       | DE | ripencc  |            | 2013-05-24 01:23:23 | HETZNER-AS, DE
+6983    | 67.219.35.51     | 67.219.32.0/19      | US | arin     | 2007-12-06 | 2013-05-24 01:23:23 | ITCDELTA - Earthlink, Inc., US
+16276   | 178.32.62.54     | 178.32.0.0/15       | FR | ripencc  | 2010-01-19 | 2013-05-24 01:23:23 | OVH, FR
+6677    | 157.157.29.123   | 157.157.0.0/16      | IS | ripencc  | 2005-02-03 | 2013-05-24 01:23:23 | ICENET-AS1, IS
+Error: no ASN or IP match on line 192.
+24940   | 178.63.177.22    | 178.63.0.0/16       | DE | ripencc  | 2010-03-02 | 2013-05-24 01:23:23 | HETZNER-AS, DE
+24961   | 62.141.41.126    | 62.141.32.0/20      | DE | ripencc  | 2002-08-28 | 2013-05-24 01:23:23 | MYLOC-AS, DE
+24940   | 144.76.63.80     | 144.76.0.0/16       | DE | ripencc  |            | 2013-05-24 01:23:23 | HETZNER-AS, DE
+3301    | 90.230.77.46     | 90.224.0.0/12       | SE | ripencc  | 2006-05-30 | 2013-05-24 01:23:23 | TELIANET-SWEDEN, SE
+3223    | 185.5.174.120    | 185.5.174.0/24      | RO | ripencc  | 2012-10-04 | 2013-05-24 01:23:23 | VOXILITY, RO
+7922    | 50.164.208.24    | 50.128.0.0/9        | US | arin     | 2010-10-21 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+15502   | 109.77.55.225    | 109.77.0.0/17       | IE | ripencc  | 2009-08-27 | 2013-05-24 01:23:23 | VODAFONE-IRELAND-ASN, IE
+6724    | 85.214.195.89    | 85.214.0.0/15       | DE | ripencc  | 2005-02-24 | 2013-05-24 01:23:23 | STRATO STRATO AG, DE
+NA      | 185.8.196.160    | NA                  | IT | ripencc  | 2012-11-02 | 2013-05-24 01:23:23 | NA
+8151    | 189.224.17.174   | 189.224.0.0/19      | MX | lacnic   | 2007-09-05 | 2013-05-24 01:23:23 | Uninet S.A. de C.V., MX
+16276   | 198.27.75.34     | 198.27.64.0/18      | CA | arin     | 2012-08-28 | 2013-05-24 01:23:23 | OVH, FR
+16276   | 198.27.75.3      | 198.27.64.0/18      | CA | arin     | 2012-08-28 | 2013-05-24 01:23:23 | OVH, FR
+7922    | 50.142.235.209   | 50.128.0.0/9        | US | arin     | 2010-10-21 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 98.234.97.25     | 98.192.0.0/10       | US | arin     | 2007-04-20 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 67.162.211.215   | 67.160.0.0/11       | US | arin     | 2002-12-16 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+10796   | 72.51.194.135    | 72.51.192.0/19      | US | arin     | 2006-08-08 | 2013-05-24 01:23:23 | SCRR-10796 - Time Warner Cable Internet LLC, US
+22709   | 68.67.240.226    | 68.67.240.0/20      | US | arin     | 2009-03-24 | 2013-05-24 01:23:23 | NSTELCO - North State Telephone Co., US
+16276   | 192.95.32.192    | 192.95.0.0/18       | CA | arin     | 2012-12-07 | 2013-05-24 01:23:23 | OVH, FR
+20115   | 96.35.214.189    | 96.35.208.0/20      | US | arin     | 2007-12-19 | 2013-05-24 01:23:23 | CHARTER-NET-HKY-NC - Charter Communications, US
+7922    | 50.131.27.178    | 50.128.0.0/9        | US | arin     | 2010-10-21 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 68.34.220.224    | 68.32.0.0/11        | US | arin     | 2001-11-29 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+19551   | 199.83.134.61    | 199.83.134.0/24     | US | arin     | 2011-01-14 | 2013-05-24 01:23:23 | INCAPSULA - Incapsula Inc, US
+7018    | 107.196.57.234   | 107.192.0.0/12      | US | arin     | 2012-04-25 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+3223    | 185.5.174.223    | 185.5.174.0/24      | RO | ripencc  | 2012-10-04 | 2013-05-24 01:23:23 | VOXILITY, RO
+8972    | 85.25.243.222    | 85.25.0.0/16        | DE | ripencc  | 2005-12-05 | 2013-05-24 01:23:23 | PLUSSERVER-AS, DE
+8972    | 62.75.206.173    | 62.75.128.0/17      | DE | ripencc  | 2001-07-27 | 2013-05-24 01:23:23 | PLUSSERVER-AS, DE
+7922    | 76.27.43.16      | 76.16.0.0/12        | US | arin     | 2006-06-28 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+13768   | 64.34.162.240    | 64.34.160.0/20      | US | arin     | 2004-07-15 | 2013-05-24 01:23:23 | PEER1 - Peer 1 Network (USA) Inc., US
+32475   | 67.212.162.186   | 67.212.160.0/19     | US | arin     | 2007-08-31 | 2013-05-24 01:23:23 | SINGLEHOP-LLC - SingleHop, Inc., US
+32748   | 67.202.70.173    | 67.202.70.0/24      | US | arin     | 2007-08-09 | 2013-05-24 01:23:23 | STEADFAST - Steadfast, US
+26272   | 198.154.63.21    | 198.154.60.0/22     | US | arin     | 2012-09-14 | 2013-05-24 01:23:23 | -Reserved AS-, ZZ, US
+25761   | 69.197.20.145    | 69.197.0.0/19       | US | arin     | 2008-05-15 | 2013-05-24 01:23:23 | STAMINUS-COMM - Staminus Communications, US
+209     | 65.131.49.213    | 65.128.0.0/11       | US | arin     | 2000-08-23 | 2013-05-24 01:23:23 | CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company, LLC, US
+NA      | 185.8.196.155    | NA                  | IT | ripencc  | 2012-11-02 | 2013-05-24 01:23:23 | NA
+7922    | 24.2.87.178      | 24.0.0.0/12         | US | arin     | 2003-10-06 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+36223   | 67.199.174.248   | 67.199.174.0/24     | US | arin     | 2008-08-27 | 2013-05-24 01:23:23 | SPANISHFORK-COMMUNITY-NETWORK - Spanish Fork City, US
+16276   | 176.31.46.204    | 176.31.0.0/16       | FR | ripencc  | 2011-05-20 | 2013-05-24 01:23:23 | OVH, FR
+3223    | 185.5.174.75     | 185.5.174.0/24      | RO | ripencc  | 2012-10-04 | 2013-05-24 01:23:23 | VOXILITY, RO
+46562   | 199.229.251.83   | 199.229.251.0/24    | US | arin     | 2012-06-27 | 2013-05-24 01:23:23 | TOTAL-SERVER-SOLUTIONS - Total Server Solutions L.L.C., US
+Error: no ASN or IP match on line 232.
+46562   | 199.229.251.83   | 199.229.251.0/24    | US | arin     | 2012-06-27 | 2013-05-24 01:23:23 | TOTAL-SERVER-SOLUTIONS - Total Server Solutions L.L.C., US
+14743   | 74.217.195.69    | 74.217.192.0/20     | US | arin     | 2008-01-22 | 2013-05-24 01:23:23 | INTERNAP-BLOCK-4 - Internap Network Services Corporation, US
+26496   | 184.168.189.1    | 184.168.188.0/22    | US | arin     | 2010-09-21 | 2013-05-24 01:23:23 | AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+4768    | 121.74.63.220    | 121.74.0.0/16       | NZ | apnic    | 2008-04-18 | 2013-05-24 01:23:23 | CLIX-NZ TelstraClear Ltd, NZ
+24940   | 88.198.31.230    | 88.198.0.0/16       | DE | ripencc  | 2005-12-27 | 2013-05-24 01:23:23 | HETZNER-AS, DE
+8151    | 189.224.75.223   | 189.224.64.0/19     | MX | lacnic   | 2007-09-05 | 2013-05-24 01:23:23 | Uninet S.A. de C.V., MX
+24940   | 176.9.2.48       | 176.9.0.0/16        | DE | ripencc  | 2011-05-17 | 2013-05-24 01:23:23 | HETZNER-AS, DE
+46475   | 216.245.214.210  | 216.245.192.0/19    | US | arin     | 2008-01-28 | 2013-05-24 01:23:23 | LIMESTONENETWORKS - Limestone Networks, Inc., US
+11425   | 98.143.45.78     | 98.143.32.0/20      | US | arin     | 2009-04-29 | 2013-05-24 01:23:23 | CWIE - CWIE, LLC, US
+20454   | 198.15.114.186   | 198.15.64.0/18      | US | arin     | 2012-07-20 | 2013-05-24 01:23:23 | SSASN2 - SECURED SERVERS LLC, US
+22489   | 69.43.161.132    | 69.43.128.0/18      | US | arin     | 2003-05-08 | 2013-05-24 01:23:23 | CASTLE-ACCESS - Castle Access Inc, US
+39651   | 83.252.43.193    | 83.248.0.0/13       | SE | ripencc  | 2004-03-04 | 2013-05-24 01:23:23 | COMHEM-SWEDEN, SE
+51167   | 80.241.217.75    | 80.241.216.0/23     | DE | ripencc  | 2011-02-14 | 2013-05-24 01:23:23 | CONTABO, DE
+7922    | 75.144.25.234    | 75.144.0.0/13       | US | arin     | 2006-09-25 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+8075    | 168.63.125.125   | 168.62.0.0/15       | US | arin     | 2011-06-22 | 2013-05-24 01:23:23 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+7922    | 75.144.25.234    | 75.144.0.0/13       | US | arin     | 2006-09-25 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+Error: no ASN or IP match on line 249.
+33070   | 50.56.243.10     | 50.56.128.0/17      | US | arin     | 2011-01-14 | 2013-05-24 01:23:23 | RMH-14 - Rackspace Hosting, US
+6327    | 24.109.41.45     | 24.109.0.0/16       | CA | arin     | 2000-01-07 | 2013-05-24 01:23:23 | SHAW - Shaw Communications Inc., CA
+6939    | 66.160.140.234   | 66.160.128.0/18     | US | arin     | 2003-10-09 | 2013-05-24 01:23:23 | HURRICANE - Hurricane Electric, Inc., US
+46562   | 198.8.93.32      | 198.8.93.0/24       | US | arin     | 2012-09-06 | 2013-05-24 01:23:23 | TOTAL-SERVER-SOLUTIONS - Total Server Solutions L.L.C., US
+20057   | 166.147.127.14   | 166.147.112.0/20    | US | arin     |            | 2013-05-24 01:23:23 | ATT-MOBILITY-LLC-AS20057 - AT&T Mobility LLC, US
+12353   | 178.166.12.88    | 178.166.0.0/17      | PT | ripencc  | 2010-03-05 | 2013-05-24 01:23:23 | VODAFONE-PT Vodafone Portugal, PT
+7018    | 108.253.50.169   | 108.192.0.0/10      | US | arin     | 2011-01-12 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+8972    | 85.25.146.153    | 85.25.0.0/16        | DE | ripencc  | 2005-12-05 | 2013-05-24 01:23:23 | PLUSSERVER-AS, DE
+5466    | 86.41.110.185    | 86.40.0.0/13        | IE | ripencc  | 2005-03-31 | 2013-05-24 01:23:23 | EIRCOM Internet House, IE
+5645    | 192.0.241.81     | 192.0.128.0/17      | CA | arin     | 2012-11-15 | 2013-05-24 01:23:23 | TEKSAVVY - TekSavvy Solutions, Inc., CA
+46606   | 198.154.234.40   | 198.154.224.0/19    | US | arin     | 2012-09-21 | 2013-05-24 01:23:23 | UNIFIEDLAYER-AS-1 - Unified Layer, US
+7922    | 76.16.23.219     | 76.16.0.0/12        | US | arin     | 2006-06-28 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+53508   | 206.255.24.164   | 206.255.16.0/20     | US | arin     | 2004-05-07 | 2013-05-24 01:23:23 | CABLELYNX - Cablelynx, US
+5466    | 86.41.102.116    | 86.40.0.0/13        | IE | ripencc  | 2005-03-31 | 2013-05-24 01:23:23 | EIRCOM Internet House, IE
+7922    | 76.103.63.54     | 76.96.0.0/11        | US | arin     | 2007-01-02 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+40156   | 66.187.72.220    | 66.187.64.0/20      | US | arin     | 2010-12-08 | 2013-05-24 01:23:23 | THEOPT-HOU - The Optimal Link Corporation, US
+16276   | 192.95.38.153    | 192.95.0.0/18       | CA | arin     | 2012-12-07 | 2013-05-24 01:23:23 | OVH, FR
+Error: no ASN or IP match on line 267.
+7922    | 24.6.125.199     | 24.0.0.0/12         | US | arin     | 2003-10-06 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 76.103.63.54     | 76.96.0.0/11        | US | arin     | 2007-01-02 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+33070   | 67.23.0.22       | 67.23.0.0/19        | US | arin     | 2009-01-23 | 2013-05-24 01:23:23 | RMH-14 - Rackspace Hosting, US
+3269    | 31.198.33.236    | 31.198.0.0/15       | IT | ripencc  | 2011-04-21 | 2013-05-24 01:23:23 | ASN-IBSNAZ, IT
+25761   | 69.197.58.205    | 69.197.32.0/19      | US | arin     | 2008-05-15 | 2013-05-24 01:23:23 | STAMINUS-COMM - Staminus Communications, US
+34309   | 128.65.209.90    | 128.65.208.0/20     | DE | ripencc  | 2011-10-07 | 2013-05-24 01:23:23 | LINK11 Link11 GmbH, DE
+54540   | 23.29.123.122    | 23.29.123.0/24      | US | arin     | 2012-03-16 | 2013-05-24 01:23:23 | INCERO - Incero LLC, US
+36352   | 198.12.123.183   | 198.12.123.0/24     | US | arin     | 2012-07-10 | 2013-05-24 01:23:23 | AS-COLOCROSSING - ColoCrossing, US
+20278   | 173.243.126.69   | 173.243.112.0/20    | US | arin     | 2010-06-02 | 2013-05-24 01:23:23 | NEXEON - Nexeon Technologies, Inc., US
+53264   | 173.243.126.69   | 173.243.112.0/20    | US | arin     | 2010-06-02 | 2013-05-24 01:23:23 | CDC - Continuum Data Centers, LLC., US
+20473   | 64.237.40.197    | 64.237.32.0/19      | US | arin     | 2002-09-24 | 2013-05-24 01:23:23 | AS-CHOOPA - Choopa, LLC, US
+7018    | 99.47.102.214    | 99.32.0.0/12        | US | arin     | 2008-02-25 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+25761   | 72.8.141.118     | 72.8.128.0/19       | US | arin     | 2006-09-14 | 2013-05-24 01:23:23 | STAMINUS-COMM - Staminus Communications, US
+46606   | 192.163.233.221  | 192.163.192.0/18    | US | arin     | 2013-02-12 | 2013-05-24 01:23:23 | UNIFIEDLAYER-AS-1 - Unified Layer, US
+46562   | 198.8.93.62      | 198.8.93.0/24       | US | arin     | 2012-09-06 | 2013-05-24 01:23:23 | TOTAL-SERVER-SOLUTIONS - Total Server Solutions L.L.C., US
+24940   | 144.76.69.20     | 144.76.0.0/16       | DE | ripencc  |            | 2013-05-24 01:23:23 | HETZNER-AS, DE
+24940   | 5.9.137.154      | 5.9.0.0/16          | DE | ripencc  | 2012-04-25 | 2013-05-24 01:23:23 | HETZNER-AS, DE
+7992    | 72.39.90.83      | 72.38.0.0/15        | CA | arin     | 2005-07-22 | 2013-05-24 01:23:23 | COGECOWAVE - Cogeco Cable, CA
+8075    | 168.63.125.125   | 168.62.0.0/15       | US | arin     | 2011-06-22 | 2013-05-24 01:23:23 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+2856    | 86.160.111.139   | 86.128.0.0/10       | GB | ripencc  | 2005-02-07 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+7922    | 76.103.131.16    | 76.96.0.0/11        | US | arin     | 2007-01-02 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 24.6.125.199     | 24.0.0.0/12         | US | arin     | 2003-10-06 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+16276   | 5.135.142.52     | 5.135.0.0/16        | FR | ripencc  | 2012-07-06 | 2013-05-24 01:23:23 | OVH, FR
+11427   | 173.173.100.111  | 173.172.0.0/14      | US | arin     | 2009-04-14 | 2013-05-24 01:23:23 | SCRR-11427 - Time Warner Cable Internet LLC, US
+11425   | 98.143.45.79     | 98.143.32.0/20      | US | arin     | 2009-04-29 | 2013-05-24 01:23:23 | CWIE - CWIE, LLC, US
+6327    | 50.70.8.127      | 50.70.0.0/19        | CA | arin     | 2010-10-28 | 2013-05-24 01:23:23 | SHAW - Shaw Communications Inc., CA
+7018    | 108.250.120.166  | 108.192.0.0/10      | US | arin     | 2011-01-12 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+2856    | 217.44.35.167    | 217.32.0.0/12       | GB | ripencc  | 2000-09-20 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+2856    | 86.153.130.47    | 86.128.0.0/11       | GB | ripencc  | 2005-02-07 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+17090   | 76.72.160.114    | 76.72.160.0/20      | US | arin     | 2010-07-20 | 2013-05-24 01:23:23 | DATABASEBYDESIGNLLC - Database by Design, LLC, US
+577     | 50.100.36.24     | 50.100.0.0/16       | CA | arin     | 2011-05-19 | 2013-05-24 01:23:23 | BACOM - Bell Canada, CA
+10796   | 184.59.95.179    | 184.59.64.0/18      | US | arin     | 2009-12-08 | 2013-05-24 01:23:23 | SCRR-10796 - Time Warner Cable Internet LLC, US
+1221    | 121.216.141.254  | 121.208.0.0/12      | AU | apnic    | 2007-02-09 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+8075    | 65.55.42.183     | 65.52.0.0/14        | US | arin     | 2001-02-14 | 2013-05-24 01:23:23 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+1221    | 58.169.97.143    | 58.160.0.0/12       | AU | apnic    | 2006-01-24 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+7018    | 108.249.177.184  | 108.192.0.0/10      | US | arin     | 2011-01-12 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+Error: no ASN or IP match on line 303.
+38285   | 122.149.154.223  | 122.149.0.0/16      | AU | apnic    | 2007-01-05 | 2013-05-24 01:23:23 | M2TELECOMMUNICATIONS-AU M2 Telecommunications Group Ltd, AU
+7029    | 75.117.37.37     | 75.117.0.0/16       | US | arin     | 2006-06-01 | 2013-05-24 01:23:23 | WINDSTREAM - Windstream Communications Inc, US
+22773   | 70.177.104.42    | 70.177.64.0/18      | US | arin     | 2004-07-21 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+1221    | 60.225.168.244   | 60.224.0.0/13       | AU | apnic    | 2004-07-28 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+Error: no ASN or IP match on line 308.
+16276   | 198.245.60.196   | 198.245.48.0/20     | CA | arin     | 2012-04-16 | 2013-05-24 01:23:23 | OVH, FR
+7922    | 76.127.174.119   | 76.96.0.0/11        | US | arin     | 2007-01-02 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+8972    | 85.25.27.0       | 85.25.0.0/16        | DE | ripencc  | 2005-03-01 | 2013-05-24 01:23:23 | PLUSSERVER-AS, DE
+7922    | 69.142.17.40     | 69.136.0.0/13       | US | arin     | 2003-04-24 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+4181    | 96.60.31.61      | 96.60.0.0/15        | US | arin     | 2008-02-21 | 2013-05-24 01:23:23 | TDS-AS - TDS TELECOM, US
+16276   | 178.32.50.219    | 178.32.0.0/15       | FR | ripencc  | 2010-01-19 | 2013-05-24 01:23:23 | OVH, FR
+46475   | 74.63.239.234    | 74.63.192.0/18      | US | arin     | 2008-08-29 | 2013-05-24 01:23:23 | LIMESTONENETWORKS - Limestone Networks, Inc., US
+7922    | 67.176.243.194   | 67.160.0.0/11       | US | arin     | 2002-12-16 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 98.211.138.208   | 98.192.0.0/10       | US | arin     | 2007-04-20 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+32590   | 208.78.165.20    | 208.78.164.0/23     | US | arin     | 2012-08-27 | 2013-05-24 01:23:23 | VALVE-CORPORATION - Valve Corporation, US
+7922    | 50.165.125.28    | 50.128.0.0/9        | US | arin     | 2010-10-21 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+32590   | 208.78.165.187   | 208.78.164.0/23     | US | arin     | 2012-08-27 | 2013-05-24 01:23:23 | VALVE-CORPORATION - Valve Corporation, US
+5650    | 71.119.19.180    | 71.118.0.0/15       | US | arin     | 2005-01-18 | 2013-05-24 01:23:23 | FRONTIER-FRTR - Frontier Communications of America, Inc., US
+12083   | 96.27.70.196     | 96.27.70.0/24       | US | arin     | 2009-01-22 | 2013-05-24 01:23:23 | WOW-INTERNET - WideOpenWest Finance LLC, US
+1221    | 121.223.11.39    | 121.208.0.0/12      | AU | apnic    | 2007-02-09 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+4739    | 124.171.154.126  | 124.171.128.0/19    | AU | apnic    | 2007-06-15 | 2013-05-24 01:23:23 | INTERNODE-AS Internode Pty Ltd, AU
+7018    | 99.166.155.195   | 99.160.0.0/13       | US | arin     | 2007-08-29 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+1221    | 101.103.14.118   | 101.103.0.0/16      | AU | apnic    | 2010-12-23 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+1221    | 101.166.41.229   | 101.160.0.0/11      | AU | apnic    | 2010-12-23 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+11426   | 69.132.17.197    | 69.132.0.0/16       | US | arin     | 2003-08-28 | 2013-05-24 01:23:23 | SCRR-11426 - Time Warner Cable Internet LLC, US
+1221    | 124.187.244.111  | 124.176.0.0/12      | AU | apnic    | 2006-05-12 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+5607    | 94.13.227.153    | 94.0.0.0/12         | GB | ripencc  | 2008-05-27 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+7922    | 98.194.55.144    | 98.192.0.0/10       | US | arin     | 2007-04-20 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+33363   | 97.96.52.170     | 97.96.0.0/15        | US | arin     | 2007-04-09 | 2013-05-24 01:23:23 | BHN-TAMPA - BRIGHT HOUSE NETWORKS, LLC, US
+16586   | 96.26.222.113    | 96.26.192.0/18      | US | arin     | 2007-11-06 | 2013-05-24 01:23:23 | CLEARWIRE - CLEAR WIRELESS LLC, US
+7922    | 76.31.146.177    | 76.16.0.0/12        | US | arin     | 2006-06-28 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+4804    | 122.109.126.132  | 122.109.112.0/20    | AU | apnic    | 2007-11-13 | 2013-05-24 01:23:23 | MPX-AS Microplex PTY LTD, AU
+2119    | 85.224.203.220   | 85.224.0.0/13       | SE | ripencc  | 2004-12-17 | 2013-05-24 01:23:23 | TELENOR-NEXTEL Telenor Norge AS, NO
+5607    | 5.71.19.105      | 5.64.0.0/13         | GB | ripencc  | 2012-06-11 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+174     | 208.53.190.200   | 208.53.190.0/24     | US | arin     | 2004-07-07 | 2013-05-24 01:23:23 | COGENT-174 - Cogent Communications, US
+27647   | 199.34.228.53    | 199.34.228.0/22     | US | arin     | 2009-02-18 | 2013-05-24 01:23:23 | WEEBLY - Weebly, Inc., US
+3301    | 90.231.60.37     | 90.224.0.0/12       | SE | ripencc  | 2006-05-30 | 2013-05-24 01:23:23 | TELIANET-SWEDEN, SE
+5607    | 90.205.93.59     | 90.192.0.0/11       | GB | ripencc  | 2006-05-31 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+206264  | 198.144.120.193  | 198.144.120.0/23    | US | arin     | 2012-04-20 | 2013-05-24 01:23:23 | AMARUTU-TECHNOLOGY, NL
+5607    | 149.241.215.58   | 149.241.0.0/16      | GB | ripencc  | 2011-09-19 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+62282   | 79.98.31.129     | 79.98.24.0/21       | LT | ripencc  | 2007-10-23 | 2013-05-24 01:23:23 | RACKRAY, LT
+8764    | 78.60.51.199     | 78.60.48.0/20       | LT | ripencc  | 2007-03-21 | 2013-05-24 01:23:23 | TELIA-LIETUVA, LT
+5607    | 149.241.218.153  | 149.241.0.0/16      | GB | ripencc  | 2011-09-19 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+22773   | 68.1.114.16      | 68.1.64.0/18        | US | arin     | 2001-11-12 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+25791   | 198.252.206.16   | 198.252.206.0/24    | US | arin     | 2012-10-17 | 2013-05-24 01:23:23 | SE-NET - Stack Exchange, Inc., US
+46475   | 74.63.215.84     | 74.63.192.0/18      | US | arin     | 2008-08-29 | 2013-05-24 01:23:23 | LIMESTONENETWORKS - Limestone Networks, Inc., US
+6128    | 69.113.146.20    | 69.112.0.0/13       | US | arin     | 2004-01-15 | 2013-05-24 01:23:23 | CABLE-NET-1 - Cablevision Systems Corp., US
+6128    | 68.193.64.143    | 68.192.0.0/13       | US | arin     | 2003-01-29 | 2013-05-24 01:23:23 | CABLE-NET-1 - Cablevision Systems Corp., US
+22759   | 76.14.178.246    | 76.14.176.0/20      | US | arin     | 2007-05-02 | 2013-05-24 01:23:23 | ASTOUND-CABLE - Wave Broadband, US
+1221    | 144.137.18.57    | 144.136.0.0/14      | AU | apnic    |            | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+56106   | 119.252.190.120  | 119.252.190.0/24    | AU | apnic    | 2011-02-24 | 2013-05-24 01:23:23 | DEDICATEDGAMING-AU DEDICATEDGAMING.COM.AU - Hosting Provider AUSTRALIA, AU
+7922    | 24.63.31.39      | 24.60.0.0/14        | US | arin     | 2001-08-15 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+32748   | 50.31.103.152    | 50.31.0.0/17        | US | arin     | 2011-02-02 | 2013-05-24 01:23:23 | STEADFAST - Steadfast, US
+9506    | 115.66.87.171    | 115.66.0.0/17       | SG | apnic    | 2008-07-15 | 2013-05-24 01:23:23 | SINGTEL-FIBRE Singtel Fibre Broadband, SG
+20115   | 24.207.197.223   | 24.207.192.0/20     | US | arin     | 2001-07-17 | 2013-05-24 01:23:23 | CHARTER-NET-HKY-NC - Charter Communications, US
+7018    | 99.100.38.175    | 99.96.0.0/11        | US | arin     | 2008-02-25 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+10796   | 174.97.33.153    | 174.96.0.0/15       | US | arin     | 2009-02-26 | 2013-05-24 01:23:23 | SCRR-10796 - Time Warner Cable Internet LLC, US
+11427   | 173.173.97.85    | 173.172.0.0/14      | US | arin     | 2009-04-14 | 2013-05-24 01:23:23 | SCRR-11427 - Time Warner Cable Internet LLC, US
+7922    | 50.132.73.194    | 50.128.0.0/9        | US | arin     | 2010-10-21 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+701     | 173.76.246.203   | 173.76.0.0/16       | US | arin     | 2008-08-11 | 2013-05-24 01:23:23 | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
+32475   | 108.163.212.219  | 108.163.192.0/18    | US | arin     | 2011-11-15 | 2013-05-24 01:23:23 | SINGLEHOP-LLC - SingleHop, Inc., US
+7922    | 76.113.245.29    | 76.96.0.0/11        | US | arin     | 2007-01-02 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+Error: no ASN or IP match on line 366.
+32475   | 173.236.38.5     | 173.236.0.0/18      | US | arin     | 2010-03-23 | 2013-05-24 01:23:23 | SINGLEHOP-LLC - SingleHop, Inc., US
+Error: no ASN or IP match on line 368.
+8075    | 137.116.32.32    | 137.116.0.0/15      | US | arin     | 2011-08-02 | 2013-05-24 01:23:23 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+4804    | 58.111.66.205    | 58.111.64.0/19      | AU | apnic    | 2006-11-10 | 2013-05-24 01:23:23 | MPX-AS Microplex PTY LTD, AU
+7922    | 71.195.153.98    | 71.192.0.0/12       | US | arin     | 2005-07-27 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+Error: no ASN or IP match on line 372.
+45028   | 92.242.144.10    | 92.242.144.0/24     | GB | ripencc  | 2007-12-27 | 2013-05-24 01:23:23 | BAREFRUIT-AS, GB
+20860   | 82.145.37.69     | 82.145.32.0/19      | GB | ripencc  | 2003-06-05 | 2013-05-24 01:23:23 | IOMART-AS, GB
+8972    | 188.138.25.72    | 188.138.25.0/24     | DE | ripencc  | 2009-05-08 | 2013-05-24 01:23:23 | PLUSSERVER-AS, DE
+36616   | 192.43.172.30    | 192.43.172.0/24     | US | arin     | 2000-11-30 | 2013-05-24 01:23:23 | AGTLD - VeriSign Global Registry Services, US
+36621   | 192.43.172.30    | 192.43.172.0/24     | US | arin     | 2000-11-30 | 2013-05-24 01:23:23 | DGTLD - VeriSign Global Registry Services, US
+36623   | 192.43.172.30    | 192.43.172.0/24     | US | arin     | 2000-11-30 | 2013-05-24 01:23:23 | HGTLD - VeriSign Global Registry Services, US
+36632   | 192.43.172.30    | 192.43.172.0/24     | US | arin     | 2000-11-30 | 2013-05-24 01:23:23 | XGTLD - VeriSign Global Registry Services, US
+29073   | 93.174.93.103    | 93.174.88.0/21      | NL | ripencc  | 2008-06-20 | 2013-05-24 01:23:23 | QUASINETWORKS, NL
+24940   | 5.9.138.221      | 5.9.0.0/16          | DE | ripencc  | 2012-04-25 | 2013-05-24 01:23:23 | HETZNER-AS, DE
+20115   | 75.138.231.223   | 75.138.224.0/19     | US | arin     | 2006-07-17 | 2013-05-24 01:23:23 | CHARTER-NET-HKY-NC - Charter Communications, US
+53508   | 206.255.24.164   | 206.255.16.0/20     | US | arin     | 2004-05-07 | 2013-05-24 01:23:23 | CABLELYNX - Cablelynx, US
+36024   | 174.136.12.86    | 174.136.12.0/22     | US | arin     | 2008-10-29 | 2013-05-24 01:23:23 | COLO4-CO - Colo4, LLC, US
+7922    | 98.225.193.50    | 98.192.0.0/10       | US | arin     | 2007-04-20 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+6167    | 72.100.130.216   | 72.96.0.0/11        | US | arin     | 2005-06-28 | 2013-05-24 01:23:23 | CELLCO-PART - Cellco Partnership DBA Verizon Wireless, US
+6167    | 75.212.142.207   | 75.192.0.0/10       | US | arin     | 2006-01-18 | 2013-05-24 01:23:23 | CELLCO-PART - Cellco Partnership DBA Verizon Wireless, US
+20001   | 98.154.119.82    | 98.152.0.0/14       | US | arin     | 2007-12-18 | 2013-05-24 01:23:23 | ROADRUNNER-WEST - Time Warner Cable Internet LLC, US
+NA      | 98.124.198.1     | NA                  | US | arin     | 2008-06-17 | 2013-05-24 01:23:23 | NA
+5607    | 90.208.38.230    | 90.192.0.0/11       | GB | ripencc  | 2007-06-14 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+5607    | 2.218.208.88     | 2.216.0.0/13        | GB | ripencc  | 2010-12-03 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+11426   | 24.163.57.92     | 24.163.0.0/17       | US | arin     | 2000-06-09 | 2013-05-24 01:23:23 | SCRR-11426 - Time Warner Cable Internet LLC, US
+4788    | 124.13.167.45    | 124.13.128.0/18     | MY | apnic    | 2007-01-09 | 2013-05-24 01:23:23 | TMNET-AS-AP TM Net, Internet Service Provider, MY
+812     | 99.228.169.117   | 99.228.0.0/16       | CA | arin     | 2007-03-12 | 2013-05-24 01:23:23 | ROGERS-CABLE - Rogers Cable Communications Inc., CA
+7018    | 76.224.236.161   | 76.224.0.0/11       | US | arin     | 2006-09-15 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+7922    | 24.128.119.240   | 24.128.0.0/16       | US | arin     |            | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7018    | 68.95.190.83     | 68.88.0.0/13        | US | arin     | 2003-02-12 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+7018    | 107.198.141.123  | 107.192.0.0/12      | US | arin     | 2012-04-25 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+7459    | 65.111.105.140   | 65.111.105.0/24     | US | arin     | 2004-08-06 | 2013-05-24 01:23:23 | GRANDECOM-AS1 - Grande Communications Networks, LLC, US
+36352   | 96.8.113.108     | 96.8.112.0/23       | US | arin     | 2010-08-30 | 2013-05-24 01:23:23 | AS-COLOCROSSING - ColoCrossing, US
+16276   | 198.50.205.231   | 198.50.128.0/17     | CA | arin     | 2013-03-07 | 2013-05-24 01:23:23 | OVH, FR
+16276   | 178.32.135.25    | 178.32.135.0/24     | FR | ripencc  | 2010-01-19 | 2013-05-24 01:23:23 | OVH, FR
+701     | 108.29.182.32    | 108.29.182.0/24     | US | arin     | 2009-06-05 | 2013-05-24 01:23:23 | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
+6724    | 85.214.154.158   | 85.214.0.0/15       | DE | ripencc  | 2005-02-24 | 2013-05-24 01:23:23 | STRATO STRATO AG, DE
+12083   | 96.27.49.253     | 96.27.48.0/21       | US | arin     | 2009-01-22 | 2013-05-24 01:23:23 | WOW-INTERNET - WideOpenWest Finance LLC, US
+6327    | 70.79.226.13     | 70.79.224.0/22      | CA | arin     | 2004-06-18 | 2013-05-24 01:23:23 | SHAW - Shaw Communications Inc., CA
+8972    | 188.138.88.216   | 188.138.0.0/17      | DE | ripencc  | 2009-05-08 | 2013-05-24 01:23:23 | PLUSSERVER-AS, DE
+20115   | 24.179.26.169    | 24.179.16.0/20      | US | arin     | 2003-10-28 | 2013-05-24 01:23:23 | CHARTER-NET-HKY-NC - Charter Communications, US
+20001   | 76.89.175.179    | 76.89.128.0/17      | US | arin     | 2006-12-22 | 2013-05-24 01:23:23 | ROADRUNNER-WEST - Time Warner Cable Internet LLC, US
+NA      | 108.162.192.165  | NA                  | US | arin     | 2011-10-28 | 2013-05-24 01:23:23 | NA
+36352   | 199.21.113.218   | 199.21.113.0/24     | US | arin     | 2011-10-14 | 2013-05-24 01:23:23 | AS-COLOCROSSING - ColoCrossing, US
+40065   | 198.12.15.136    | 198.12.15.0/24      | US | arin     | 2012-10-29 | 2013-05-24 01:23:23 | CNSERVERS - CNSERVERS LLC, US
+22576   | 72.233.104.123   | 72.233.0.0/17       | US | arin     | 2005-09-07 | 2013-05-24 01:23:23 | DATAPIPE-ASN2 - DataPipe, Inc., US
+3561    | 64.14.56.100     | 64.14.0.0/16        | US | arin     |            | 2013-05-24 01:23:23 | CENTURYLINK-LEGACY-SAVVIS - Savvis, US
+9158    | 85.82.132.66     | 85.80.0.0/14        | DK | ripencc  | 2004-10-21 | 2013-05-24 01:23:23 | TELENOR_DANMARK_AS, DK
+7018    | 108.254.154.12   | 108.192.0.0/10      | US | arin     | 2011-01-12 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+4565    | 192.168.1.78     | 192.168.1.0/24      |    | other    |            | 2013-05-24 01:23:23 | MEGAPATH2-US - MegaPath Networks Inc., US
+NA      | 172.31.255.249   | NA                  |    | other    |            | 2013-05-24 01:23:23 | NA
+174     | 213.146.168.254  | 213.146.160.0/19    | GB | ripencc  | 2001-03-27 | 2013-05-24 01:23:23 | COGENT-174 - Cogent Communications, US
+46475   | 216.245.216.11   | 216.245.192.0/19    | US | arin     | 2008-01-28 | 2013-05-24 01:23:23 | LIMESTONENETWORKS - Limestone Networks, Inc., US
+Error: no ASN or IP match on line 418.
+22773   | 68.106.241.116   | 68.106.224.0/19     | US | arin     | 2002-02-04 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+22773   | 68.98.34.41      | 68.98.0.0/17        | US | arin     | 2002-02-04 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+1221    | 1.122.246.106    | 1.120.0.0/13        | AU | apnic    | 2010-05-18 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+7018    | 99.72.209.134    | 99.64.0.0/11        | US | arin     | 2008-02-25 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+38733   | 124.158.9.5      | 124.158.9.0/24      | VN | apnic    | 2009-09-25 | 2013-05-24 01:23:23 | CMCTELHCMC-AS-VN Branch of CMC Telecommunications Services Company at HCMC, VN
+16276   | 37.59.237.244    | 37.59.0.0/16        | FR | ripencc  | 2012-01-16 | 2013-05-24 01:23:23 | OVH, FR
+9105    | 80.47.3.174      | 80.40.0.0/13        | GB | ripencc  | 2001-11-23 | 2013-05-24 01:23:23 | TISCALI-UK ISP Network, UK, GB
+8075    | 137.116.32.31    | 137.116.0.0/15      | US | arin     | 2011-08-02 | 2013-05-24 01:23:23 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+8075    | 137.116.32.31    | 137.116.0.0/15      | US | arin     | 2011-08-02 | 2013-05-24 01:23:23 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+7922    | 50.152.85.8      | 50.128.0.0/9        | US | arin     | 2010-10-21 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+NA      | 96.238.217.123   | NA                  | US | arin     | 2006-12-29 | 2013-05-24 01:23:23 | NA
+7922    | 107.3.162.230    | 107.0.0.0/14        | US | arin     | 2010-06-29 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 75.150.229.26    | 75.144.0.0/13       | US | arin     | 2006-09-25 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+16276   | 192.95.29.173    | 192.95.0.0/18       | CA | arin     | 2012-12-07 | 2013-05-24 01:23:23 | OVH, FR
+43234   | 92.4.168.56      | 92.4.0.0/14         | GB | ripencc  | 2007-06-28 | 2013-05-24 01:23:23 | TT-AOLUK-AS, GB
+20454   | 108.170.18.226   | 108.170.0.0/18      | US | arin     | 2012-01-23 | 2013-05-24 01:23:23 | SSASN2 - SECURED SERVERS LLC, US
+7922    | 71.193.37.161    | 71.192.0.0/12       | US | arin     | 2005-07-27 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+5089    | 82.24.79.82      | 82.24.0.0/14        | GB | ripencc  | 2003-02-28 | 2013-05-24 01:23:23 | NTL, GB
+59432   | 5.134.115.231    | 5.134.115.0/24      | ES | ripencc  | 2012-07-10 | 2013-05-24 01:23:23 | GINERNET, ES
+23033   | 216.244.83.226   | 216.244.82.0/23     | US | arin     |            | 2013-05-24 01:23:23 | WOW - Wowrack.com, US
+7922    | 98.192.165.101   | 98.192.0.0/10       | US | arin     | 2007-04-20 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+Error: no ASN or IP match on line 440.
+31122   | 78.137.164.94    | 78.137.128.0/18     | IE | ripencc  | 2007-05-22 | 2013-05-24 01:23:23 | DIGIWEB-AS, IE
+14618   | 107.22.42.94     | 107.22.0.0/16       | US | arin     | 2011-05-03 | 2013-05-24 01:23:23 | AMAZON-AES - Amazon.com, Inc., US
+6128    | 24.188.216.167   | 24.188.0.0/14       | US | arin     |            | 2013-05-24 01:23:23 | CABLE-NET-1 - Cablevision Systems Corp., US
+16276   | 178.32.187.224   | 178.32.0.0/15       | FR | ripencc  | 2010-01-19 | 2013-05-24 01:23:23 | OVH, FR
+20454   | 184.95.39.18     | 184.95.32.0/19      | US | arin     | 2011-02-02 | 2013-05-24 01:23:23 | SSASN2 - SECURED SERVERS LLC, US
+16276   | 198.27.83.117    | 198.27.64.0/18      | CA | arin     | 2012-08-28 | 2013-05-24 01:23:23 | OVH, FR
+577     | 184.146.137.36   | 184.146.0.0/16      | CA | arin     | 2010-04-12 | 2013-05-24 01:23:23 | BACOM - Bell Canada, CA
+7922    | 68.63.125.125    | 68.32.0.0/11        | US | arin     | 2001-11-29 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+5650    | 184.19.129.210   | 184.16.0.0/14       | US | arin     | 2009-09-22 | 2013-05-24 01:23:23 | FRONTIER-FRTR - Frontier Communications of America, Inc., US
+701     | 173.63.195.229   | 173.63.0.0/16       | US | arin     | 2008-10-09 | 2013-05-24 01:23:23 | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
+7922    | 65.96.57.250     | 65.96.0.0/16        | US | arin     | 2001-01-02 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+11979   | 64.130.149.240   | 64.130.128.0/18     | US | arin     | 2005-10-18 | 2013-05-24 01:23:23 | BLUENET - Bluegrass Network LLC, US
+60781   | 85.17.73.240     | 85.17.0.0/16        | NL | ripencc  | 2005-03-11 | 2013-05-24 01:23:23 | LEASEWEB-NL Netherlands, NL
+16276   | 192.95.20.82     | 192.95.0.0/18       | CA | arin     | 2012-12-07 | 2013-05-24 01:23:23 | OVH, FR
+55286   | 192.241.74.106   | 192.241.64.0/18     | US | arin     | 2013-06-10 | 2013-05-24 01:23:23 | SERVER-MANIA - B2 Net Solutions Inc., US
+6181    | 66.117.245.108   | 66.117.192.0/18     | US | arin     | 2002-10-17 | 2013-05-24 01:23:23 | FUSE-NET - Cincinnati Bell Telephone Company LLC, US
+5607    | 94.7.58.140      | 94.0.0.0/12         | GB | ripencc  | 2008-05-27 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+2856    | 86.181.79.91     | 86.128.0.0/10       | GB | ripencc  | 2005-02-07 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+7922    | 174.61.254.88    | 174.48.0.0/12       | US | arin     | 2008-11-18 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+19551   | 199.83.134.131   | 199.83.134.0/24     | US | arin     | 2011-01-14 | 2013-05-24 01:23:23 | INCAPSULA - Incapsula Inc, US
+7922    | 69.180.179.239   | 69.180.0.0/15       | US | arin     | 2004-02-18 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+4802    | 203.206.167.10   | 203.206.167.0/24    | AU | apnic    | 2001-08-16 | 2013-05-24 01:23:23 | ASN-IINET iiNet Limited, AU
+26496   | 50.63.223.1      | 50.63.220.0/22      | US | arin     | 2011-02-02 | 2013-05-24 01:23:23 | AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+1759    | 80.220.75.228    | 80.220.0.0/14       | FI | ripencc  | 2002-03-27 | 2013-05-24 01:23:23 | TSF-IP-CORE http://www.teliasonera.com, looking-glass lg.sonera.net, FI
+32475   | 173.236.89.123   | 173.236.80.0/20     | US | arin     | 2010-03-23 | 2013-05-24 01:23:23 | SINGLEHOP-LLC - SingleHop, Inc., US
+5650    | 71.119.105.178   | 71.118.0.0/15       | US | arin     | 2005-01-18 | 2013-05-24 01:23:23 | FRONTIER-FRTR - Frontier Communications of America, Inc., US
+60781   | 185.16.84.47     | 185.16.84.0/24      | SE | ripencc  | 2013-01-21 | 2013-05-24 01:23:23 | LEASEWEB-NL Netherlands, NL
+577     | 184.147.132.8    | 184.147.0.0/16      | CA | arin     | 2010-04-12 | 2013-05-24 01:23:23 | BACOM - Bell Canada, CA
+36351   | 67.214.223.110   | 67.214.223.0/24     | US | arin     | 2008-11-26 | 2013-05-24 01:23:23 | SOFTLAYER - SoftLayer Technologies Inc., US
+Error: no ASN or IP match on line 470.
+20473   | 108.61.227.200   | 108.61.227.0/24     | US | arin     | 2010-12-08 | 2013-05-24 01:23:23 | AS-CHOOPA - Choopa, LLC, US
+4771    | 122.58.22.61     | 122.58.16.0/20      | NZ | apnic    | 2008-09-16 | 2013-05-24 01:23:23 | SPARKNZ Spark New Zealand Trading Ltd., NZ
+7922    | 71.58.26.95      | 71.56.0.0/13        | US | arin     | 2005-04-29 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+55286   | 192.241.74.106   | 192.241.64.0/18     | US | arin     | 2013-06-10 | 2013-05-24 01:23:23 | SERVER-MANIA - B2 Net Solutions Inc., US
+209     | 71.52.147.165    | 71.52.128.0/19      | US | arin     | 2005-04-26 | 2013-05-24 01:23:23 | CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company, LLC, US
+8075    | 168.63.55.14     | 168.62.0.0/15       | US | arin     | 2011-06-22 | 2013-05-24 01:23:23 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+46475   | 64.31.29.27      | 64.31.0.0/18        | US | arin     | 2010-12-27 | 2013-05-24 01:23:23 | LIMESTONENETWORKS - Limestone Networks, Inc., US
+209     | 63.153.232.5     | 63.144.0.0/12       | US | arin     | 2000-07-12 | 2013-05-24 01:23:23 | CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company, LLC, US
+7922    | 24.14.44.219     | 24.0.0.0/12         | US | arin     | 2003-10-06 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+22773   | 70.170.0.249     | 70.170.0.0/17       | US | arin     | 2004-07-21 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+7922    | 67.184.188.171   | 67.160.0.0/11       | US | arin     | 2002-12-16 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7018    | 65.43.224.208    | 65.42.0.0/15        | US | arin     | 2001-04-05 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+22773   | 72.198.197.179   | 72.198.192.0/19     | US | arin     | 2005-08-03 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+20001   | 76.89.179.175    | 76.89.128.0/17      | US | arin     | 2006-12-22 | 2013-05-24 01:23:23 | ROADRUNNER-WEST - Time Warner Cable Internet LLC, US
+7922    | 24.118.248.182   | 24.118.0.0/16       | US | arin     | 2001-09-17 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+1221    | 58.165.33.242    | 58.160.0.0/12       | AU | apnic    | 2005-05-30 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+Error: no ASN or IP match on line 487.
+1221    | 58.165.222.196   | 58.160.0.0/12       | AU | apnic    | 2005-05-30 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+1299    | 209.170.124.205  | 209.170.64.0/18     | US | arin     |            | 2013-05-24 01:23:23 | TELIANET, SE
+1221    | 58.168.116.136   | 58.160.0.0/12       | AU | apnic    | 2006-01-24 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+1221    | 60.224.166.54    | 60.224.0.0/13       | AU | apnic    | 2004-07-28 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+1221    | 124.182.89.71    | 124.176.0.0/12      | AU | apnic    | 2006-05-12 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+9500    | 27.252.78.19     | 27.252.0.0/17       | NZ | apnic    | 2010-03-12 | 2013-05-24 01:23:23 | VODAFONE-TRANSIT-AS Vodafone NZ Ltd., NZ
+20473   | 108.61.44.115    | 108.61.0.0/18       | US | arin     | 2010-12-08 | 2013-05-24 01:23:23 | AS-CHOOPA - Choopa, LLC, US
+1221    | 1.123.1.136      | 1.120.0.0/13        | AU | apnic    | 2010-05-18 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+22612   | 162.213.248.134  | 162.213.248.0/24    | US | arin     | 2013-06-17 | 2013-05-24 01:23:23 | NAMECHEAP-NET - Namecheap, Inc., US
+22612   | 199.188.200.66   | 199.188.200.0/24    | US | arin     | 2011-08-03 | 2013-05-24 01:23:23 | NAMECHEAP-NET - Namecheap, Inc., US
+36352   | 192.210.236.202  | 192.210.236.0/22    | US | arin     | 2012-12-11 | 2013-05-24 01:23:23 | AS-COLOCROSSING - ColoCrossing, US
+5466    | 86.40.4.10       | 86.40.0.0/13        | IE | ripencc  | 2005-03-31 | 2013-05-24 01:23:23 | EIRCOM Internet House, IE
+33363   | 97.97.160.189    | 97.96.0.0/15        | US | arin     | 2007-04-09 | 2013-05-24 01:23:23 | BHN-TAMPA - BRIGHT HOUSE NETWORKS, LLC, US
+7922    | 50.143.97.87     | 50.128.0.0/9        | US | arin     | 2010-10-21 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 98.194.14.144    | 98.192.0.0/10       | US | arin     | 2007-04-20 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+14586   | 64.74.97.80      | 64.74.97.0/24       | US | arin     | 2000-04-05 | 2013-05-24 01:23:23 | NUCLEARFALLOUT-CHI - Nuclearfallout Enterprises, Inc., US
+22773   | 68.1.114.73      | 68.1.64.0/18        | US | arin     | 2001-11-12 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+1221    | 123.211.36.63    | 123.208.0.0/14      | AU | apnic    | 2007-02-09 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+4771    | 122.61.245.120   | 122.61.240.0/20     | NZ | apnic    | 2008-09-16 | 2013-05-24 01:23:23 | SPARKNZ Spark New Zealand Trading Ltd., NZ
+4804    | 122.108.181.249  | 122.108.160.0/19    | AU | apnic    | 2007-11-13 | 2013-05-24 01:23:23 | MPX-AS Microplex PTY LTD, AU
+1299    | 209.170.124.204  | 209.170.64.0/18     | US | arin     |            | 2013-05-24 01:23:23 | TELIANET, SE
+1221    | 124.185.4.119    | 124.176.0.0/12      | AU | apnic    | 2006-05-12 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+4739    | 220.253.83.237   | 220.253.80.0/21     | AU | apnic    | 2004-06-25 | 2013-05-24 01:23:23 | INTERNODE-AS Internode Pty Ltd, AU
+4739    | 220.253.86.203   | 220.253.80.0/21     | AU | apnic    | 2004-06-25 | 2013-05-24 01:23:23 | INTERNODE-AS Internode Pty Ltd, AU
+2856    | 86.161.193.70    | 86.128.0.0/10       | GB | ripencc  | 2005-02-07 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+1221    | 124.184.111.33   | 124.176.0.0/12      | AU | apnic    | 2006-05-12 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+1221    | 101.165.120.86   | 101.160.0.0/11      | AU | apnic    | 2010-12-23 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+5607    | 2.216.99.56      | 2.216.0.0/13        | GB | ripencc  | 2010-12-03 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+1221    | 1.122.246.203    | 1.120.0.0/13        | AU | apnic    | 2010-05-18 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+1221    | 58.165.103.228   | 58.160.0.0/12       | AU | apnic    | 2005-05-30 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+4739    | 124.168.39.120   | 124.168.0.0/18      | AU | apnic    | 2006-03-20 | 2013-05-24 01:23:23 | INTERNODE-AS Internode Pty Ltd, AU
+1221    | 1.122.197.123    | 1.120.0.0/13        | AU | apnic    | 2010-05-18 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+45411   | 118.107.49.27    | 118.107.49.0/24     | AU | apnic    | 2007-09-06 | 2013-05-24 01:23:23 | APCSNET-AU APCS WIP NETWORK, AU
+1221    | 101.165.123.151  | 101.160.0.0/11      | AU | apnic    | 2010-12-23 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+4804    | 122.105.139.175  | 122.105.128.0/20    | AU | apnic    | 2006-11-10 | 2013-05-24 01:23:23 | MPX-AS Microplex PTY LTD, AU
+7718    | 180.200.155.170  | 180.200.128.0/18    | AU | apnic    | 2010-06-11 | 2013-05-24 01:23:23 | TRANSACT-SDN-AS TransACT Capital Communications Pty Limited, AU
+9443    | 211.27.105.185   | 211.27.96.0/20      | AU | apnic    | 2003-09-30 | 2013-05-24 01:23:23 | INTERNETPRIMUS-AS-AP Primus Telecommunications, AU
+7922    | 76.116.17.57     | 76.96.0.0/11        | US | arin     | 2007-01-02 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+43350   | 109.201.152.1    | 109.201.128.0/19    | NL | ripencc  | 2010-02-12 | 2013-05-24 01:23:23 | NFORCE, NL
+5607    | 90.193.231.121   | 90.192.0.0/11       | GB | ripencc  | 2006-05-31 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+20001   | 142.129.189.13   | 142.129.0.0/16      | US | arin     | 2012-08-22 | 2013-05-24 01:23:23 | ROADRUNNER-WEST - Time Warner Cable Internet LLC, US
+5607    | 90.205.148.179   | 90.192.0.0/11       | GB | ripencc  | 2006-05-31 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+22773   | 72.203.129.185   | 72.203.128.0/19     | US | arin     | 2005-08-03 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+812     | 99.244.53.25     | 99.244.0.0/16       | CA | arin     | 2007-03-12 | 2013-05-24 01:23:23 | ROGERS-CABLE - Rogers Cable Communications Inc., CA
+47583   | 31.170.161.176   | 31.170.160.0/22     | US | ripencc  | 2011-03-30 | 2013-05-24 01:23:23 | HOSTINGER-AS, LT
+38285   | 122.151.181.88   | 122.151.0.0/16      | AU | apnic    | 2010-07-29 | 2013-05-24 01:23:23 | M2TELECOMMUNICATIONS-AU M2 Telecommunications Group Ltd, AU
+1221    | 121.217.128.52   | 121.208.0.0/12      | AU | apnic    | 2007-02-09 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+38285   | 122.150.172.51   | 122.150.0.0/16      | AU | apnic    | 2010-07-29 | 2013-05-24 01:23:23 | M2TELECOMMUNICATIONS-AU M2 Telecommunications Group Ltd, AU
+4764    | 203.129.19.142   | 203.129.16.0/20     | AU | apnic    | 2006-03-24 | 2013-05-24 01:23:23 | WIDEBAND-AS-AU Wideband Networks Pty Ltd, Transit AS, AU
+32748   | 50.31.67.59      | 50.31.67.0/24       | US | arin     | 2011-02-02 | 2013-05-24 01:23:23 | STEADFAST - Steadfast, US
+11260   | 173.212.119.105  | 173.212.64.0/18     | CA | arin     | 2009-10-13 | 2013-05-24 01:23:23 | EASTLINK-HSI - EastLink, CA
+7922    | 24.60.188.132    | 24.60.0.0/14        | US | arin     | 2001-08-15 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+13644   | 174.141.213.39   | 174.141.208.0/21    | US | arin     | 2010-02-16 | 2013-05-24 01:23:23 | TMO-METRO - T-Mobile USA, Inc., US
+855     | 99.192.80.115    | 99.192.64.0/19      | CA | arin     | 2009-04-17 | 2013-05-24 01:23:23 | CANET-ASN-4 - Bell Aliant Regional Communications, Inc., CA
+15003   | 174.34.147.93    | 174.34.146.0/23     | US | arin     | 2008-10-28 | 2013-05-24 01:23:23 | NOBIS-TECH - Nobis Technology Group, LLC, US
+3842    | 192.73.237.230   | 192.73.232.0/21     | US | arin     | 2013-01-07 | 2013-05-24 01:23:23 | RAMNODE - RamNode LLC, US
+20456   | 66.254.197.26    | 66.254.197.0/24     | US | arin     | 2006-09-21 | 2013-05-24 01:23:23 | RISE-IL-AS20456 - JAB Wireless, INC., US
+40065   | 162.212.252.35   | 162.212.252.0/24    | US | arin     | 2013-05-29 | 2013-05-24 01:23:23 | CNSERVERS - CNSERVERS LLC, US
+40065   | 162.212.252.48   | 162.212.252.0/24    | US | arin     | 2013-05-29 | 2013-05-24 01:23:23 | CNSERVERS - CNSERVERS LLC, US
+46844   | 70.39.66.99      | 70.39.66.0/24       | US | arin     | 2010-01-26 | 2013-05-24 01:23:23 | ST-BGP - Sharktech, US
+40065   | 162.212.252.46   | 162.212.252.0/24    | US | arin     | 2013-05-29 | 2013-05-24 01:23:23 | CNSERVERS - CNSERVERS LLC, US
+14586   | 74.91.113.34     | 74.91.113.0/24      | US | arin     | 2011-04-13 | 2013-05-24 01:23:23 | NUCLEARFALLOUT-CHI - Nuclearfallout Enterprises, Inc., US
+2856    | 81.152.122.113   | 81.128.0.0/11       | GB | ripencc  | 2002-07-25 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+36408   | 208.80.249.6     | 208.80.249.0/24     | US | arin     | 2007-08-03 | 2013-05-24 01:23:23 | CDNETWORKSUS-02 - CDNetworks Inc., US
+40065   | 198.12.15.204    | 198.12.15.0/24      | US | arin     | 2012-10-29 | 2013-05-24 01:23:23 | CNSERVERS - CNSERVERS LLC, US
+7018    | 108.206.34.73    | 108.192.0.0/10      | US | arin     | 2011-01-12 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+13335   | 141.101.118.34   | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | 2013-05-24 01:23:23 | CLOUDFLARENET - CloudFlare, Inc., US
+36351   | 173.192.114.66   | 173.192.64.0/18     | US | arin     | 2009-07-21 | 2013-05-24 01:23:23 | SOFTLAYER - SoftLayer Technologies Inc., US
+26133   | 63.131.214.194   | 63.131.208.0/20     | US | arin     | 2006-07-25 | 2013-05-24 01:23:23 | FEWPB - Frankfort Plant Board, US
+7922    | 98.210.67.82     | 98.192.0.0/10       | US | arin     | 2007-04-20 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 98.255.67.81     | 98.192.0.0/10       | US | arin     | 2007-04-20 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+5607    | 151.224.219.215  | 151.224.0.0/13      | GB | ripencc  | 2012-08-09 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+3269    | 82.0.172.90      | 82.0.0.0/16         | GB | ripencc  | 2003-02-28 | 2013-05-24 01:23:23 | ASN-IBSNAZ, IT
+36352   | 96.8.112.133     | 96.8.112.0/23       | US | arin     | 2010-08-30 | 2013-05-24 01:23:23 | AS-COLOCROSSING - ColoCrossing, US
+Error: no ASN or IP match on line 562.
+47583   | 31.170.167.198   | 31.170.166.0/23     | US | ripencc  | 2011-03-30 | 2013-05-24 01:23:23 | HOSTINGER-AS, LT
+20115   | 71.84.170.118    | 71.84.160.0/20      | US | arin     | 2005-05-19 | 2013-05-24 01:23:23 | CHARTER-NET-HKY-NC - Charter Communications, US
+24971   | 83.167.230.54    | 83.167.224.0/19     | CZ | ripencc  | 2008-08-21 | 2013-05-24 01:23:23 | MASTER-AS Czech Republic / www.master.cz, CZ
+24940   | 5.9.211.204      | 5.9.0.0/16          | DE | ripencc  | 2012-04-25 | 2013-05-24 01:23:23 | HETZNER-AS, DE
+22612   | 162.213.248.135  | 162.213.248.0/24    | US | arin     | 2013-06-17 | 2013-05-24 01:23:23 | NAMECHEAP-NET - Namecheap, Inc., US
+16586   | 74.60.163.141    | 74.60.160.0/19      | US | arin     | 2006-05-09 | 2013-05-24 01:23:23 | CLEARWIRE - CLEAR WIRELESS LLC, US
+22773   | 68.102.68.80     | 68.102.0.0/15       | US | arin     | 2002-02-04 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+NA      | 108.162.192.102  | NA                  | US | arin     | 2011-10-28 | 2013-05-24 01:23:23 | NA
+16276   | 188.165.247.229  | 188.165.0.0/16      | FR | ripencc  | 2009-06-05 | 2013-05-24 01:23:23 | OVH, FR
+32475   | 184.154.66.7     | 184.154.0.0/16      | US | arin     | 2010-06-21 | 2013-05-24 01:23:23 | SINGLEHOP-LLC - SingleHop, Inc., US
+7922    | 76.125.219.135   | 76.96.0.0/11        | US | arin     | 2007-01-02 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+20454   | 198.24.143.178   | 198.24.128.0/19     | US | arin     | 2012-10-30 | 2013-05-24 01:23:23 | SSASN2 - SECURED SERVERS LLC, US
+24940   | 188.40.70.29     | 188.40.0.0/16       | DE | ripencc  | 2009-04-23 | 2013-05-24 01:23:23 | HETZNER-AS, DE
+Error: no ASN or IP match on line 576.
+5089    | 82.30.39.161     | 82.28.0.0/14        | GB | ripencc  | 2003-02-28 | 2013-05-24 01:23:23 | NTL, GB
+20001   | 98.148.149.209   | 98.148.0.0/15       | US | arin     | 2007-12-18 | 2013-05-24 01:23:23 | ROADRUNNER-WEST - Time Warner Cable Internet LLC, US
+45595   | 182.185.104.15   | 182.185.96.0/19     | PK | apnic    | 2010-04-12 | 2013-05-24 01:23:23 | PKTELECOM-AS-PK Pakistan Telecom Company Limited, PK
+40065   | 162.212.252.60   | 162.212.252.0/24    | US | arin     | 2013-05-29 | 2013-05-24 01:23:23 | CNSERVERS - CNSERVERS LLC, US
+13285   | 92.22.34.15      | 92.22.0.0/15        | GB | ripencc  | 2007-06-28 | 2013-05-24 01:23:23 | OPALTELECOM-AS TalkTalk Communications Limited, GB
+46475   | 63.143.49.218    | 63.143.32.0/19      | US | arin     | 2011-10-27 | 2013-05-24 01:23:23 | LIMESTONENETWORKS - Limestone Networks, Inc., US
+45595   | 182.189.167.212  | 182.189.128.0/18    | PK | apnic    | 2010-04-12 | 2013-05-24 01:23:23 | PKTELECOM-AS-PK Pakistan Telecom Company Limited, PK
+6167    | 70.193.131.5     | 70.192.0.0/11       | US | arin     | 2004-06-10 | 2013-05-24 01:23:23 | CELLCO-PART - Cellco Partnership DBA Verizon Wireless, US
+20115   | 68.184.16.124    | 68.184.16.0/20      | US | arin     | 2002-12-31 | 2013-05-24 01:23:23 | CHARTER-NET-HKY-NC - Charter Communications, US
+16276   | 198.50.239.167   | 198.50.128.0/17     | CA | arin     | 2013-03-07 | 2013-05-24 01:23:23 | OVH, FR
+30466   | 208.118.210.103  | 208.118.210.0/24    | CA | arin     | 2008-10-09 | 2013-05-24 01:23:23 | CAXD - Cable Axion Digitel Inc., CA
+5607    | 2.218.189.159    | 2.216.0.0/13        | GB | ripencc  | 2010-12-03 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+395747  | 173.245.61.126   | 173.245.60.0/23     | US | arin     | 2010-12-28 | 2013-05-24 01:23:23 | 
+7922    | 174.48.11.33     | 174.48.0.0/12       | US | arin     | 2008-11-18 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+6128    | 68.192.244.151   | 68.192.0.0/13       | US | arin     | 2003-01-29 | 2013-05-24 01:23:23 | CABLE-NET-1 - Cablevision Systems Corp., US
+812     | 99.235.24.186    | 99.235.0.0/17       | CA | arin     | 2007-03-12 | 2013-05-24 01:23:23 | ROGERS-CABLE - Rogers Cable Communications Inc., CA
+36351   | 184.173.169.19   | 184.173.128.0/18    | US | arin     | 2010-10-06 | 2013-05-24 01:23:23 | SOFTLAYER - SoftLayer Technologies Inc., US
+11260   | 24.222.50.252    | 24.222.48.0/20      | CA | arin     |            | 2013-05-24 01:23:23 | EASTLINK-HSI - EastLink, CA
+32475   | 184.154.129.252  | 184.154.0.0/16      | US | arin     | 2010-06-21 | 2013-05-24 01:23:23 | SINGLEHOP-LLC - SingleHop, Inc., US
+20473   | 108.61.87.10     | 108.61.64.0/19      | US | arin     | 2010-12-08 | 2013-05-24 01:23:23 | AS-CHOOPA - Choopa, LLC, US
+7922    | 68.42.233.210    | 68.32.0.0/11        | US | arin     | 2001-11-29 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 66.177.20.146    | 66.176.0.0/15       | US | arin     | 2001-10-01 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+11776   | 207.255.69.50    | 207.255.64.0/19     | US | arin     | 2004-06-14 | 2013-05-24 01:23:23 | ATLANTICBB-JOHNSTOWN - Atlantic Broadband Finance, LLC, US
+62511   | 67.110.209.64    | 67.110.208.0/20     | US | arin     | 2001-08-10 | 2013-05-24 01:23:23 | DCI - DAVIS COMMUNICATIONS, INC., US
+6830    | 77.251.211.213   | 77.250.0.0/15       | NL | ripencc  | 2007-01-26 | 2013-05-24 01:23:23 | LGI-UPC formerly known as UPC Broadband Holding B.V., AT
+36352   | 198.46.158.15    | 198.46.156.0/22     | US | arin     | 2013-03-12 | 2013-05-24 01:23:23 | AS-COLOCROSSING - ColoCrossing, US
+1221    | 101.165.105.174  | 101.160.0.0/11      | AU | apnic    | 2010-12-23 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+5089    | 80.3.149.148     | 80.3.128.0/17       | GB | ripencc  | 2001-04-25 | 2013-05-24 01:23:23 | NTL, GB
+16276   | 94.23.40.219     | 94.23.0.0/16        | FR | ripencc  | 2008-07-15 | 2013-05-24 01:23:23 | OVH, FR
+2856    | 86.186.87.163    | 86.128.0.0/10       | GB | ripencc  | 2005-02-07 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+5089    | 82.42.251.181    | 82.42.0.0/16        | GB | ripencc  | 2003-01-31 | 2013-05-24 01:23:23 | NTL, GB
+13335   | 141.101.125.233  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | 2013-05-24 01:23:23 | CLOUDFLARENET - CloudFlare, Inc., US
+13285   | 89.243.8.176     | 89.242.0.0/15       | GB | ripencc  | 2006-04-27 | 2013-05-24 01:23:23 | OPALTELECOM-AS TalkTalk Communications Limited, GB
+11693   | 72.15.84.58      | 72.15.80.0/21       | US | arin     | 2004-11-19 | 2013-05-24 01:23:23 | NULINK - HC Cable OPCO, LLC, US
+701     | 71.169.6.18      | 71.169.0.0/18       | US | arin     | 2005-06-01 | 2013-05-24 01:23:23 | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
+Error: no ASN or IP match on line 612.
+2119    | 92.2.79.190      | 92.0.0.0/14         | GB | ripencc  | 2007-06-28 | 2013-05-24 01:23:23 | TELENOR-NEXTEL Telenor Norge AS, NO
+43234   | 92.2.79.190      | 92.0.0.0/14         | GB | ripencc  | 2007-06-28 | 2013-05-24 01:23:23 | TT-AOLUK-AS, GB
+5089    | 81.96.62.193     | 81.96.0.0/15        | GB | ripencc  | 2002-06-14 | 2013-05-24 01:23:23 | NTL, GB
+14618   | 50.17.69.56      | 50.17.0.0/16        | US | arin     | 2010-10-07 | 2013-05-24 01:23:23 | AMAZON-AES - Amazon.com, Inc., US
+33070   | 174.143.143.188  | 174.143.0.0/16      | US | arin     | 2009-01-20 | 2013-05-24 01:23:23 | RMH-14 - Rackspace Hosting, US
+22576   | 72.233.96.151    | 72.233.0.0/17       | US | arin     | 2005-09-07 | 2013-05-24 01:23:23 | DATAPIPE-ASN2 - DataPipe, Inc., US
+577     | 70.31.38.237     | 70.31.0.0/16        | CA | arin     | 2008-01-28 | 2013-05-24 01:23:23 | BACOM - Bell Canada, CA
+395747  | 173.245.60.126   | 173.245.60.0/23     | US | arin     | 2010-12-28 | 2013-05-24 01:23:23 | 
+209     | 71.34.13.204     | 71.32.0.0/13        | US | arin     | 2004-12-17 | 2013-05-24 01:23:23 | CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company, LLC, US
+29170   | 178.132.219.110  | 178.132.216.0/21    | AL | ripencc  | 2011-10-03 | 2013-05-24 01:23:23 | KUJTESA-AS, RS
+5607    | 2.216.235.67     | 2.216.0.0/13        | GB | ripencc  | 2010-12-03 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+Error: no ASN or IP match on line 623.
+Error: no ASN or IP match on line 624.
+32787   | 72.52.4.95       | 72.52.4.0/24        | US | arin     | 2005-07-11 | 2013-05-24 01:23:23 | PROLEXIC-TECHNOLOGIES-DDOS-MITIGATION-NETWORK - Akamai Technologies, Inc., US
+11351   | 72.230.234.85    | 72.230.0.0/16       | US | arin     | 2005-07-21 | 2013-05-24 01:23:23 | RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC, US
+1221    | 124.183.121.3    | 124.176.0.0/12      | AU | apnic    | 2006-05-12 | 2013-05-24 01:23:23 | ASN-TELSTRA Telstra Pty Ltd, AU
+7922    | 67.163.95.221    | 67.160.0.0/11       | US | arin     | 2002-12-16 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+7922    | 68.57.202.231    | 68.32.0.0/11        | US | arin     | 2001-11-29 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+9155    | 78.154.244.164   | 78.154.244.0/24     | KW | ripencc  | 2007-07-23 | 2013-05-24 01:23:23 | QNET Kuwait, KW
+33363   | 50.90.31.119     | 50.90.0.0/16        | US | arin     | 2011-02-01 | 2013-05-24 01:23:23 | BHN-TAMPA - BRIGHT HOUSE NETWORKS, LLC, US
+5607    | 176.250.91.11    | 176.248.0.0/13      | GB | ripencc  | 2011-12-05 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+701     | 71.186.180.165   | 71.186.128.0/17     | US | arin     | 2005-06-01 | 2013-05-24 01:23:23 | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
+12576   | 2.27.130.204     | 2.27.0.0/16         | GB | ripencc  | 2010-09-21 | 2013-05-24 01:23:23 | ORANGE-PCS, GB
+Error: no ASN or IP match on line 635.
+5089    | 77.102.192.30    | 77.102.0.0/16       | GB | ripencc  | 2006-10-18 | 2013-05-24 01:23:23 | NTL, GB
+6128    | 68.196.225.224   | 68.192.0.0/13       | US | arin     | 2003-01-29 | 2013-05-24 01:23:23 | CABLE-NET-1 - Cablevision Systems Corp., US
+6128    | 24.191.69.154    | 24.188.0.0/14       | US | arin     |            | 2013-05-24 01:23:23 | CABLE-NET-1 - Cablevision Systems Corp., US
+25761   | 69.197.47.226    | 69.197.32.0/19      | US | arin     | 2008-05-15 | 2013-05-24 01:23:23 | STAMINUS-COMM - Staminus Communications, US
+46475   | 69.162.81.169    | 69.162.64.0/18      | US | arin     | 2008-06-27 | 2013-05-24 01:23:23 | LIMESTONENETWORKS - Limestone Networks, Inc., US
+20473   | 108.61.31.88     | 108.61.0.0/19       | US | arin     | 2010-12-08 | 2013-05-24 01:23:23 | AS-CHOOPA - Choopa, LLC, US
+13335   | 190.93.248.10    | 190.93.240.0/20     | CR | lacnic   | 2012-03-19 | 2013-05-24 01:23:23 | CLOUDFLARENET - CloudFlare, Inc., US
+22773   | 72.201.112.113   | 72.201.0.0/16       | US | arin     | 2005-08-03 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+22773   | 24.252.63.233    | 24.252.0.0/18       | US | arin     | 2003-10-28 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+7922    | 71.233.162.216   | 71.224.0.0/12       | US | arin     | 2005-04-15 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+3737    | 75.97.3.140      | 75.97.0.0/16        | US | arin     | 2009-01-30 | 2013-05-24 01:23:23 | PTD-AS - PenTeleData Inc., US
+7018    | 108.75.92.25     | 108.64.0.0/11       | US | arin     | 2009-10-29 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+Error: no ASN or IP match on line 648.
+7018    | 69.105.141.15    | 69.104.0.0/13       | US | arin     | 2003-11-21 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+Error: no ASN or IP match on line 650.
+22773   | 68.3.92.111      | 68.3.0.0/16         | US | arin     | 2001-11-12 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+3356    | 8.27.230.253     | 8.0.0.0/9           | US | arin     |            | 2013-05-24 01:23:23 | LEVEL3 - Level 3 Communications, Inc., US
+Error: no ASN or IP match on line 653.
+20115   | 71.10.191.133    | 71.10.160.0/19      | US | arin     | 2004-10-01 | 2013-05-24 01:23:23 | CHARTER-NET-HKY-NC - Charter Communications, US
+32244   | 67.227.130.132   | 67.227.128.0/17     | US | arin     | 2008-01-23 | 2013-05-24 01:23:23 | LIQUID-WEB-INC - Liquid Web, L.L.C, US
+5645    | 24.212.242.233   | 24.212.240.0/21     | CA | arin     | 2011-12-20 | 2013-05-24 01:23:23 | TEKSAVVY - TekSavvy Solutions, Inc., CA
+44066   | 79.133.47.4      | 79.133.32.0/19      | DE | ripencc  | 2007-10-04 | 2013-05-24 01:23:23 | DE-FIRSTCOLO www.first-colo.net, DE
+3209    | 88.77.97.244     | 88.64.0.0/12        | DE | ripencc  | 2005-08-15 | 2013-05-24 01:23:23 | VODANET International IP-Backbone of Vodafone, DE
+51468   | 46.30.211.55     | 46.30.208.0/21      | DK | ripencc  | 2010-09-08 | 2013-05-24 01:23:23 | ONECOM, DK
+5650    | 71.118.169.191   | 71.118.0.0/15       | US | arin     | 2005-01-18 | 2013-05-24 01:23:23 | FRONTIER-FRTR - Frontier Communications of America, Inc., US
+5607    | 94.3.132.48      | 94.0.0.0/12         | GB | ripencc  | 2008-05-27 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+11260   | 24.138.25.39     | 24.138.16.0/20      | CA | arin     |            | 2013-05-24 01:23:23 | EASTLINK-HSI - EastLink, CA
+20860   | 78.129.148.101   | 78.129.128.0/17     | GB | ripencc  | 2007-04-18 | 2013-05-24 01:23:23 | IOMART-AS, GB
+5056    | 207.32.9.129     | 207.32.9.0/24       | US | arin     |            | 2013-05-24 01:23:23 | AUREON-5056 - Aureon Network Services, US
+7029    | 74.11.41.158     | 74.8.0.0/14         | US | arin     | 2006-01-17 | 2013-05-24 01:23:23 | WINDSTREAM - Windstream Communications Inc, US
+7922    | 69.250.118.31    | 69.240.0.0/12       | US | arin     | 2004-02-11 | 2013-05-24 01:23:23 | COMCAST-7922 - Comcast Cable Communications, LLC, US
+6128    | 174.44.194.240   | 174.44.0.0/16       | US | arin     | 2011-12-22 | 2013-05-24 01:23:23 | CABLE-NET-1 - Cablevision Systems Corp., US
+NA      | 80.255.218.70    | NA                  | GB | ripencc  | 2003-06-06 | 2013-05-24 01:23:23 | NA
+5089    | 86.20.158.72     | 86.20.0.0/16        | GB | ripencc  | 2005-03-29 | 2013-05-24 01:23:23 | NTL, GB
+3215    | 86.220.172.233   | 86.220.128.0/17     | FR | ripencc  | 2005-03-02 | 2013-05-24 01:23:23 | AS3215, FR
+5089    | 80.1.180.145     | 80.1.128.0/17       | GB | ripencc  | 2001-04-25 | 2013-05-24 01:23:23 | NTL, GB
+5089    | 82.40.159.111    | 82.40.0.0/16        | GB | ripencc  | 2003-01-31 | 2013-05-24 01:23:23 | NTL, GB
+5089    | 86.8.78.55       | 86.8.0.0/17         | GB | ripencc  | 2005-03-29 | 2013-05-24 01:23:23 | NTL, GB
+16276   | 192.95.0.146     | 192.95.0.0/18       | CA | arin     | 2012-12-07 | 2013-05-24 01:23:23 | OVH, FR
+6830    | 178.203.107.4    | 178.202.0.0/15      | DE | ripencc  | 2010-03-16 | 2013-05-24 01:23:23 | LGI-UPC formerly known as UPC Broadband Holding B.V., AT
+7459    | 67.198.85.43     | 67.198.80.0/20      | US | arin     | 2007-06-22 | 2013-05-24 01:23:23 | GRANDECOM-AS1 - Grande Communications Networks, LLC, US
+32475   | 184.154.207.170  | 184.154.0.0/16      | US | arin     | 2010-06-21 | 2013-05-24 01:23:23 | SINGLEHOP-LLC - SingleHop, Inc., US
+5089    | 86.21.181.195    | 86.21.128.0/17      | GB | ripencc  | 2005-03-29 | 2013-05-24 01:23:23 | NTL, GB
+855     | 142.177.176.89   | 142.177.0.0/16      | CA | arin     |            | 2013-05-24 01:23:23 | CANET-ASN-4 - Bell Aliant Regional Communications, Inc., CA
+2856    | 86.133.55.85     | 86.128.0.0/12       | GB | ripencc  | 2005-02-07 | 2013-05-24 01:23:23 | BT-UK-AS BTnet UK Regional network, GB
+20001   | 98.154.231.178   | 98.152.0.0/14       | US | arin     | 2007-12-18 | 2013-05-24 01:23:23 | ROADRUNNER-WEST - Time Warner Cable Internet LLC, US
+5607    | 90.219.192.58    | 90.192.0.0/11       | GB | ripencc  | 2007-06-14 | 2013-05-24 01:23:23 | BSKYB-BROADBAND-AS, GB
+16586   | 50.11.18.74      | 50.11.0.0/17        | US | arin     | 2010-07-15 | 2013-05-24 01:23:23 | CLEARWIRE - CLEAR WIRELESS LLC, US
+22773   | 98.183.12.168    | 98.183.0.0/18       | US | arin     | 2007-07-20 | 2013-05-24 01:23:23 | ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
+6128    | 69.113.79.39     | 69.112.0.0/13       | US | arin     | 2004-01-15 | 2013-05-24 01:23:23 | CABLE-NET-1 - Cablevision Systems Corp., US
+5466    | 86.45.49.246     | 86.40.0.0/13        | IE | ripencc  | 2005-03-31 | 2013-05-24 01:23:23 | EIRCOM Internet House, IE
+11427   | 72.177.161.53    | 72.176.0.0/13       | US | arin     | 2005-11-21 | 2013-05-24 01:23:23 | SCRR-11427 - Time Warner Cable Internet LLC, US
+7018    | 75.40.80.140     | 75.32.0.0/12        | US | arin     | 2006-02-28 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+7029    | 50.96.93.98      | 50.96.0.0/16        | US | arin     | 2011-03-11 | 2013-05-24 01:23:23 | WINDSTREAM - Windstream Communications Inc, US
+12271   | 67.244.3.41      | 67.244.0.0/19       | US | arin     | 2008-02-27 | 2013-05-24 01:23:23 | SCRR-12271 - Time Warner Cable Internet LLC, US
+10507   | 66.87.114.105    | 66.87.114.0/24      | US | arin     | 2001-03-27 | 2013-05-24 01:23:23 | SPCS - Sprint Personal Communications Systems, US
+81      | 198.86.248.28    | 198.86.0.0/16       | US | arin     |            | 2013-05-24 01:23:23 | NCREN - MCNC, US
+46606   | 192.254.186.14   | 192.254.128.0/18    | US | arin     | 2013-06-11 | 2013-05-24 01:23:23 | UNIFIEDLAYER-AS-1 - Unified Layer, US
+46606   | 192.254.186.14   | 192.254.128.0/18    | US | arin     | 2013-06-11 | 2013-05-24 01:23:23 | UNIFIEDLAYER-AS-1 - Unified Layer, US
+12083   | 67.149.37.6      | 67.149.32.0/21      | US | arin     | 2004-02-19 | 2013-05-24 01:23:23 | WOW-INTERNET - WideOpenWest Finance LLC, US
+11260   | 24.138.25.39     | 24.138.16.0/20      | CA | arin     |            | 2013-05-24 01:23:23 | EASTLINK-HSI - EastLink, CA
+11351   | 67.241.129.188   | 67.240.0.0/15       | US | arin     | 2008-02-27 | 2013-05-24 01:23:23 | RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC, US
+7018    | 172.10.69.12     | 172.0.0.0/12        | US | arin     | 2012-08-20 | 2013-05-24 01:23:23 | ATT-INTERNET4 - AT&T Services, Inc., US
+12083   | 67.149.37.6      | 67.149.32.0/21      | US | arin     | 2004-02-19 | 2013-05-24 01:23:23 | WOW-INTERNET - WideOpenWest Finance LLC, US
+393398  | 67.222.155.30    | 67.222.144.0/20     | US | arin     | 2008-02-04 | 2013-05-24 01:23:23 | ASN-DIS - Dallas Infrastructure Services, LLC, US
+22561   | 174.124.79.19    | 174.124.0.0/16      | US | arin     | 2009-04-07 | 2013-05-24 01:23:23 | CENTURYLINK-LEGACY-LIGHTCORE - CenturyTel Internet Holdings, Inc., US
